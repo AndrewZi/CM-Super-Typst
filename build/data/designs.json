@@ -1,0 +1,3294 @@
+{
+"sfrm0500|0500": {
+"t1": "ecrm0500",
+"t2a": "larm0500",
+"t2b": "lbrm0500",
+"t2c": "lcrm0500",
+"ts1": "tcrm0500",
+"x2": "rxrm0500"
+},
+"sfrm0600|0600": {
+"t1": "ecrm0600",
+"t2a": "larm0600",
+"t2b": "lbrm0600",
+"t2c": "lcrm0600",
+"ts1": "tcrm0600",
+"x2": "rxrm0600"
+},
+"sfrm0700|0700": {
+"t1": "ecrm0700",
+"t2a": "larm0700",
+"t2b": "lbrm0700",
+"t2c": "lcrm0700",
+"ts1": "tcrm0700",
+"x2": "rxrm0700"
+},
+"sfrm0800|0800": {
+"t1": "ecrm0800",
+"t2a": "larm0800",
+"t2b": "lbrm0800",
+"t2c": "lcrm0800",
+"ts1": "tcrm0800",
+"x2": "rxrm0800"
+},
+"sfrm0900|0900": {
+"t1": "ecrm0900",
+"t2a": "larm0900",
+"t2b": "lbrm0900",
+"t2c": "lcrm0900",
+"ts1": "tcrm0900",
+"x2": "rxrm0900"
+},
+"sfrm1095|1095": {
+"t1": "ecrm1095",
+"t2a": "larm1095",
+"t2b": "lbrm1095",
+"t2c": "lcrm1095",
+"ts1": "tcrm1095",
+"x2": "rxrm1095"
+},
+"sfrm1200|1200": {
+"t1": "ecrm1200",
+"t2a": "larm1200",
+"t2b": "lbrm1200",
+"t2c": "lcrm1200",
+"ts1": "tcrm1200",
+"x2": "rxrm1200"
+},
+"sfrm1440|1440": {
+"t1": "ecrm1440",
+"t2a": "larm1440",
+"t2b": "lbrm1440",
+"t2c": "lcrm1440",
+"ts1": "tcrm1440",
+"x2": "rxrm1440"
+},
+"sfrm1728|1728": {
+"t1": "ecrm1728",
+"t2a": "larm1728",
+"t2b": "lbrm1728",
+"t2c": "lcrm1728",
+"ts1": "tcrm1728",
+"x2": "rxrm1728"
+},
+"sfrm2074|2074": {
+"t1": "ecrm2074",
+"t2a": "larm2074",
+"t2b": "lbrm2074",
+"t2c": "lcrm2074",
+"ts1": "tcrm2074",
+"x2": "rxrm2074"
+},
+"sfrm2488|2488": {
+"t1": "ecrm2488",
+"t2a": "larm2488",
+"t2b": "lbrm2488",
+"t2c": "lcrm2488",
+"ts1": "tcrm2488",
+"x2": "rxrm2488"
+},
+"sfrm2986|2986": {
+"t1": "ecrm2986",
+"t2a": "larm2986",
+"t2b": "lbrm2986",
+"t2c": "lcrm2986",
+"ts1": "tcrm2986",
+"x2": "rxrm2986"
+},
+"sfrm3583|3583": {
+"t1": "ecrm3583",
+"t2a": "larm3583",
+"t2b": "lbrm3583",
+"t2c": "lcrm3583",
+"ts1": "tcrm3583",
+"x2": "rxrm3583"
+},
+"sfsl0500|0500": {
+"t1": "ecsl0500",
+"t2a": "lasl0500",
+"t2b": "lbsl0500",
+"t2c": "lcsl0500",
+"ts1": "tcsl0500",
+"x2": "rxsl0500"
+},
+"sfsl0600|0600": {
+"t1": "ecsl0600",
+"t2a": "lasl0600",
+"t2b": "lbsl0600",
+"t2c": "lcsl0600",
+"ts1": "tcsl0600",
+"x2": "rxsl0600"
+},
+"sfsl0700|0700": {
+"t1": "ecsl0700",
+"t2a": "lasl0700",
+"t2b": "lbsl0700",
+"t2c": "lcsl0700",
+"ts1": "tcsl0700",
+"x2": "rxsl0700"
+},
+"sfsl0800|0800": {
+"t1": "ecsl0800",
+"t2a": "lasl0800",
+"t2b": "lbsl0800",
+"t2c": "lcsl0800",
+"ts1": "tcsl0800",
+"x2": "rxsl0800"
+},
+"sfsl0900|0900": {
+"t1": "ecsl0900",
+"t2a": "lasl0900",
+"t2b": "lbsl0900",
+"t2c": "lcsl0900",
+"ts1": "tcsl0900",
+"x2": "rxsl0900"
+},
+"sfsl1095|1095": {
+"t1": "ecsl1095",
+"t2a": "lasl1095",
+"t2b": "lbsl1095",
+"t2c": "lcsl1095",
+"ts1": "tcsl1095",
+"x2": "rxsl1095"
+},
+"sfsl1200|1200": {
+"t1": "ecsl1200",
+"t2a": "lasl1200",
+"t2b": "lbsl1200",
+"t2c": "lcsl1200",
+"ts1": "tcsl1200",
+"x2": "rxsl1200"
+},
+"sfsl1440|1440": {
+"t1": "ecsl1440",
+"t2a": "lasl1440",
+"t2b": "lbsl1440",
+"t2c": "lcsl1440",
+"ts1": "tcsl1440",
+"x2": "rxsl1440"
+},
+"sfsl1728|1728": {
+"t1": "ecsl1728",
+"t2a": "lasl1728",
+"t2b": "lbsl1728",
+"t2c": "lcsl1728",
+"ts1": "tcsl1728",
+"x2": "rxsl1728"
+},
+"sfsl2074|2074": {
+"t1": "ecsl2074",
+"t2a": "lasl2074",
+"t2b": "lbsl2074",
+"t2c": "lcsl2074",
+"ts1": "tcsl2074",
+"x2": "rxsl2074"
+},
+"sfsl2488|2488": {
+"t1": "ecsl2488",
+"t2a": "lasl2488",
+"t2b": "lbsl2488",
+"t2c": "lcsl2488",
+"ts1": "tcsl2488",
+"x2": "rxsl2488"
+},
+"sfsl2986|2986": {
+"t1": "ecsl2986",
+"t2a": "lasl2986",
+"t2b": "lbsl2986",
+"t2c": "lcsl2986",
+"ts1": "tcsl2986",
+"x2": "rxsl2986"
+},
+"sfsl3583|3583": {
+"t1": "ecsl3583",
+"t2a": "lasl3583",
+"t2b": "lbsl3583",
+"t2c": "lcsl3583",
+"ts1": "tcsl3583",
+"x2": "rxsl3583"
+},
+"sfti0500|0500": {
+"t1": "ecti0500",
+"t2a": "lati0500",
+"t2b": "lbti0500",
+"t2c": "lcti0500",
+"ts1": "tcti0500",
+"x2": "rxti0500"
+},
+"sfti0600|0600": {
+"t1": "ecti0600",
+"t2a": "lati0600",
+"t2b": "lbti0600",
+"t2c": "lcti0600",
+"ts1": "tcti0600",
+"x2": "rxti0600"
+},
+"sfti0700|0700": {
+"t1": "ecti0700",
+"t2a": "lati0700",
+"t2b": "lbti0700",
+"t2c": "lcti0700",
+"ts1": "tcti0700",
+"x2": "rxti0700"
+},
+"sfti0800|0800": {
+"t1": "ecti0800",
+"t2a": "lati0800",
+"t2b": "lbti0800",
+"t2c": "lcti0800",
+"ts1": "tcti0800",
+"x2": "rxti0800"
+},
+"sfti0900|0900": {
+"t1": "ecti0900",
+"t2a": "lati0900",
+"t2b": "lbti0900",
+"t2c": "lcti0900",
+"ts1": "tcti0900",
+"x2": "rxti0900"
+},
+"sfti1095|1095": {
+"t1": "ecti1095",
+"t2a": "lati1095",
+"t2b": "lbti1095",
+"t2c": "lcti1095",
+"ts1": "tcti1095",
+"x2": "rxti1095"
+},
+"sfti1200|1200": {
+"t1": "ecti1200",
+"t2a": "lati1200",
+"t2b": "lbti1200",
+"t2c": "lcti1200",
+"ts1": "tcti1200",
+"x2": "rxti1200"
+},
+"sfti1440|1440": {
+"t1": "ecti1440",
+"t2a": "lati1440",
+"t2b": "lbti1440",
+"t2c": "lcti1440",
+"ts1": "tcti1440",
+"x2": "rxti1440"
+},
+"sfti1728|1728": {
+"t1": "ecti1728",
+"t2a": "lati1728",
+"t2b": "lbti1728",
+"t2c": "lcti1728",
+"ts1": "tcti1728",
+"x2": "rxti1728"
+},
+"sfti2074|2074": {
+"t1": "ecti2074",
+"t2a": "lati2074",
+"t2b": "lbti2074",
+"t2c": "lcti2074",
+"ts1": "tcti2074",
+"x2": "rxti2074"
+},
+"sfti2488|2488": {
+"t1": "ecti2488",
+"t2a": "lati2488",
+"t2b": "lbti2488",
+"t2c": "lcti2488",
+"ts1": "tcti2488",
+"x2": "rxti2488"
+},
+"sfti2986|2986": {
+"t1": "ecti2986",
+"t2a": "lati2986",
+"t2b": "lbti2986",
+"t2c": "lcti2986",
+"ts1": "tcti2986",
+"x2": "rxti2986"
+},
+"sfti3583|3583": {
+"t1": "ecti3583",
+"t2a": "lati3583",
+"t2b": "lbti3583",
+"t2c": "lcti3583",
+"ts1": "tcti3583",
+"x2": "rxti3583"
+},
+"sfcc0500|0500": {
+"t1": "eccc0500",
+"t2a": "lacc0500",
+"t2b": "lbcc0500",
+"t2c": "lccc0500",
+"x2": "rxcc0500"
+},
+"sfcc0600|0600": {
+"t1": "eccc0600",
+"t2a": "lacc0600",
+"t2b": "lbcc0600",
+"t2c": "lccc0600",
+"x2": "rxcc0600"
+},
+"sfcc0700|0700": {
+"t1": "eccc0700",
+"t2a": "lacc0700",
+"t2b": "lbcc0700",
+"t2c": "lccc0700",
+"x2": "rxcc0700"
+},
+"sfcc0800|0800": {
+"t1": "eccc0800",
+"t2a": "lacc0800",
+"t2b": "lbcc0800",
+"t2c": "lccc0800",
+"x2": "rxcc0800"
+},
+"sfcc0900|0900": {
+"t1": "eccc0900",
+"t2a": "lacc0900",
+"t2b": "lbcc0900",
+"t2c": "lccc0900",
+"x2": "rxcc0900"
+},
+"sfcc1095|1095": {
+"t1": "eccc1095",
+"t2a": "lacc1095",
+"t2b": "lbcc1095",
+"t2c": "lccc1095",
+"x2": "rxcc1095"
+},
+"sfcc1200|1200": {
+"t1": "eccc1200",
+"t2a": "lacc1200",
+"t2b": "lbcc1200",
+"t2c": "lccc1200",
+"x2": "rxcc1200"
+},
+"sfcc1440|1440": {
+"t1": "eccc1440",
+"t2a": "lacc1440",
+"t2b": "lbcc1440",
+"t2c": "lccc1440",
+"x2": "rxcc1440"
+},
+"sfcc1728|1728": {
+"t1": "eccc1728",
+"t2a": "lacc1728",
+"t2b": "lbcc1728",
+"t2c": "lccc1728",
+"x2": "rxcc1728"
+},
+"sfcc2074|2074": {
+"t1": "eccc2074",
+"t2a": "lacc2074",
+"t2b": "lbcc2074",
+"t2c": "lccc2074",
+"x2": "rxcc2074"
+},
+"sfcc2488|2488": {
+"t1": "eccc2488",
+"t2a": "lacc2488",
+"t2b": "lbcc2488",
+"t2c": "lccc2488",
+"x2": "rxcc2488"
+},
+"sfcc2986|2986": {
+"t1": "eccc2986",
+"t2a": "lacc2986",
+"t2b": "lbcc2986",
+"t2c": "lccc2986",
+"x2": "rxcc2986"
+},
+"sfcc3583|3583": {
+"t1": "eccc3583",
+"t2a": "lacc3583",
+"t2b": "lbcc3583",
+"t2c": "lccc3583",
+"x2": "rxcc3583"
+},
+"sfui0500|0500": {
+"t1": "ecui0500",
+"t2a": "laui0500",
+"t2b": "lbui0500",
+"t2c": "lcui0500",
+"ts1": "tcui0500",
+"x2": "rxui0500"
+},
+"sfui0600|0600": {
+"t1": "ecui0600",
+"t2a": "laui0600",
+"t2b": "lbui0600",
+"t2c": "lcui0600",
+"ts1": "tcui0600",
+"x2": "rxui0600"
+},
+"sfui0700|0700": {
+"t1": "ecui0700",
+"t2a": "laui0700",
+"t2b": "lbui0700",
+"t2c": "lcui0700",
+"ts1": "tcui0700",
+"x2": "rxui0700"
+},
+"sfui0800|0800": {
+"t1": "ecui0800",
+"t2a": "laui0800",
+"t2b": "lbui0800",
+"t2c": "lcui0800",
+"ts1": "tcui0800",
+"x2": "rxui0800"
+},
+"sfui0900|0900": {
+"t1": "ecui0900",
+"t2a": "laui0900",
+"t2b": "lbui0900",
+"t2c": "lcui0900",
+"ts1": "tcui0900",
+"x2": "rxui0900"
+},
+"sfui1095|1095": {
+"t1": "ecui1095",
+"t2a": "laui1095",
+"t2b": "lbui1095",
+"t2c": "lcui1095",
+"ts1": "tcui1095",
+"x2": "rxui1095"
+},
+"sfui1200|1200": {
+"t1": "ecui1200",
+"t2a": "laui1200",
+"t2b": "lbui1200",
+"t2c": "lcui1200",
+"ts1": "tcui1200",
+"x2": "rxui1200"
+},
+"sfui1440|1440": {
+"t1": "ecui1440",
+"t2a": "laui1440",
+"t2b": "lbui1440",
+"t2c": "lcui1440",
+"ts1": "tcui1440",
+"x2": "rxui1440"
+},
+"sfui1728|1728": {
+"t1": "ecui1728",
+"t2a": "laui1728",
+"t2b": "lbui1728",
+"t2c": "lcui1728",
+"ts1": "tcui1728",
+"x2": "rxui1728"
+},
+"sfui2074|2074": {
+"t1": "ecui2074",
+"t2a": "laui2074",
+"t2b": "lbui2074",
+"t2c": "lcui2074",
+"ts1": "tcui2074",
+"x2": "rxui2074"
+},
+"sfui2488|2488": {
+"t1": "ecui2488",
+"t2a": "laui2488",
+"t2b": "lbui2488",
+"t2c": "lcui2488",
+"ts1": "tcui2488",
+"x2": "rxui2488"
+},
+"sfui2986|2986": {
+"t1": "ecui2986",
+"t2a": "laui2986",
+"t2b": "lbui2986",
+"t2c": "lcui2986",
+"ts1": "tcui2986",
+"x2": "rxui2986"
+},
+"sfui3583|3583": {
+"t1": "ecui3583",
+"t2a": "laui3583",
+"t2b": "lbui3583",
+"t2c": "lcui3583",
+"ts1": "tcui3583",
+"x2": "rxui3583"
+},
+"sfsc0500|0500": {
+"t1": "ecsc0500",
+"t2a": "lasc0500",
+"t2b": "lbsc0500",
+"t2c": "lcsc0500",
+"x2": "rxsc0500"
+},
+"sfsc0600|0600": {
+"t1": "ecsc0600",
+"t2a": "lasc0600",
+"t2b": "lbsc0600",
+"t2c": "lcsc0600",
+"x2": "rxsc0600"
+},
+"sfsc0700|0700": {
+"t1": "ecsc0700",
+"t2a": "lasc0700",
+"t2b": "lbsc0700",
+"t2c": "lcsc0700",
+"x2": "rxsc0700"
+},
+"sfsc0800|0800": {
+"t1": "ecsc0800",
+"t2a": "lasc0800",
+"t2b": "lbsc0800",
+"t2c": "lcsc0800",
+"x2": "rxsc0800"
+},
+"sfsc0900|0900": {
+"t1": "ecsc0900",
+"t2a": "lasc0900",
+"t2b": "lbsc0900",
+"t2c": "lcsc0900",
+"x2": "rxsc0900"
+},
+"sfsc1095|1095": {
+"t1": "ecsc1095",
+"t2a": "lasc1095",
+"t2b": "lbsc1095",
+"t2c": "lcsc1095",
+"x2": "rxsc1095"
+},
+"sfsc1200|1200": {
+"t1": "ecsc1200",
+"t2a": "lasc1200",
+"t2b": "lbsc1200",
+"t2c": "lcsc1200",
+"x2": "rxsc1200"
+},
+"sfsc1440|1440": {
+"t1": "ecsc1440",
+"t2a": "lasc1440",
+"t2b": "lbsc1440",
+"t2c": "lcsc1440",
+"x2": "rxsc1440"
+},
+"sfsc1728|1728": {
+"t1": "ecsc1728",
+"t2a": "lasc1728",
+"t2b": "lbsc1728",
+"t2c": "lcsc1728",
+"x2": "rxsc1728"
+},
+"sfsc2074|2074": {
+"t1": "ecsc2074",
+"t2a": "lasc2074",
+"t2b": "lbsc2074",
+"t2c": "lcsc2074",
+"x2": "rxsc2074"
+},
+"sfsc2488|2488": {
+"t1": "ecsc2488",
+"t2a": "lasc2488",
+"t2b": "lbsc2488",
+"t2c": "lcsc2488",
+"x2": "rxsc2488"
+},
+"sfsc2986|2986": {
+"t1": "ecsc2986",
+"t2a": "lasc2986",
+"t2b": "lbsc2986",
+"t2c": "lcsc2986",
+"x2": "rxsc2986"
+},
+"sfsc3583|3583": {
+"t1": "ecsc3583",
+"t2a": "lasc3583",
+"t2b": "lbsc3583",
+"t2c": "lcsc3583",
+"x2": "rxsc3583"
+},
+"sfci0500|0500": {
+"t1": "ecci0500",
+"t2a": "laci0500",
+"t2b": "lbci0500",
+"t2c": "lcci0500",
+"ts1": "tcci0500",
+"x2": "rxci0500"
+},
+"sfci0600|0600": {
+"t1": "ecci0600",
+"t2a": "laci0600",
+"t2b": "lbci0600",
+"t2c": "lcci0600",
+"ts1": "tcci0600",
+"x2": "rxci0600"
+},
+"sfci0700|0700": {
+"t1": "ecci0700",
+"t2a": "laci0700",
+"t2b": "lbci0700",
+"t2c": "lcci0700",
+"ts1": "tcci0700",
+"x2": "rxci0700"
+},
+"sfci0800|0800": {
+"t1": "ecci0800",
+"t2a": "laci0800",
+"t2b": "lbci0800",
+"t2c": "lcci0800",
+"ts1": "tcci0800",
+"x2": "rxci0800"
+},
+"sfci0900|0900": {
+"t1": "ecci0900",
+"t2a": "laci0900",
+"t2b": "lbci0900",
+"t2c": "lcci0900",
+"ts1": "tcci0900",
+"x2": "rxci0900"
+},
+"sfci1095|1095": {
+"t1": "ecci1095",
+"t2a": "laci1095",
+"t2b": "lbci1095",
+"t2c": "lcci1095",
+"ts1": "tcci1095",
+"x2": "rxci1095"
+},
+"sfci1200|1200": {
+"t1": "ecci1200",
+"t2a": "laci1200",
+"t2b": "lbci1200",
+"t2c": "lcci1200",
+"ts1": "tcci1200",
+"x2": "rxci1200"
+},
+"sfci1440|1440": {
+"t1": "ecci1440",
+"t2a": "laci1440",
+"t2b": "lbci1440",
+"t2c": "lcci1440",
+"ts1": "tcci1440",
+"x2": "rxci1440"
+},
+"sfci1728|1728": {
+"t1": "ecci1728",
+"t2a": "laci1728",
+"t2b": "lbci1728",
+"t2c": "lcci1728",
+"ts1": "tcci1728",
+"x2": "rxci1728"
+},
+"sfci2074|2074": {
+"t1": "ecci2074",
+"t2a": "laci2074",
+"t2b": "lbci2074",
+"t2c": "lcci2074",
+"ts1": "tcci2074",
+"x2": "rxci2074"
+},
+"sfci2488|2488": {
+"t1": "ecci2488",
+"t2a": "laci2488",
+"t2b": "lbci2488",
+"t2c": "lcci2488",
+"ts1": "tcci2488",
+"x2": "rxci2488"
+},
+"sfci2986|2986": {
+"t1": "ecci2986",
+"t2a": "laci2986",
+"t2b": "lbci2986",
+"t2c": "lcci2986",
+"ts1": "tcci2986",
+"x2": "rxci2986"
+},
+"sfci3583|3583": {
+"t1": "ecci3583",
+"t2a": "laci3583",
+"t2b": "lbci3583",
+"t2c": "lcci3583",
+"ts1": "tcci3583",
+"x2": "rxci3583"
+},
+"sfbx0500|0500": {
+"t1": "ecbx0500",
+"t2a": "labx0500",
+"t2b": "lbbx0500",
+"t2c": "lcbx0500",
+"ts1": "tcbx0500",
+"x2": "rxbx0500"
+},
+"sfbx0600|0600": {
+"t1": "ecbx0600",
+"t2a": "labx0600",
+"t2b": "lbbx0600",
+"t2c": "lcbx0600",
+"ts1": "tcbx0600",
+"x2": "rxbx0600"
+},
+"sfbx0700|0700": {
+"t1": "ecbx0700",
+"t2a": "labx0700",
+"t2b": "lbbx0700",
+"t2c": "lcbx0700",
+"ts1": "tcbx0700",
+"x2": "rxbx0700"
+},
+"sfbx0800|0800": {
+"t1": "ecbx0800",
+"t2a": "labx0800",
+"t2b": "lbbx0800",
+"t2c": "lcbx0800",
+"ts1": "tcbx0800",
+"x2": "rxbx0800"
+},
+"sfbx0900|0900": {
+"t1": "ecbx0900",
+"t2a": "labx0900",
+"t2b": "lbbx0900",
+"t2c": "lcbx0900",
+"ts1": "tcbx0900",
+"x2": "rxbx0900"
+},
+"sfbx1095|1095": {
+"t1": "ecbx1095",
+"t2a": "labx1095",
+"t2b": "lbbx1095",
+"t2c": "lcbx1095",
+"ts1": "tcbx1095",
+"x2": "rxbx1095"
+},
+"sfbx1200|1200": {
+"t1": "ecbx1200",
+"t2a": "labx1200",
+"t2b": "lbbx1200",
+"t2c": "lcbx1200",
+"ts1": "tcbx1200",
+"x2": "rxbx1200"
+},
+"sfbx1440|1440": {
+"t1": "ecbx1440",
+"t2a": "labx1440",
+"t2b": "lbbx1440",
+"t2c": "lcbx1440",
+"ts1": "tcbx1440",
+"x2": "rxbx1440"
+},
+"sfbx1728|1728": {
+"t1": "ecbx1728",
+"t2a": "labx1728",
+"t2b": "lbbx1728",
+"t2c": "lcbx1728",
+"ts1": "tcbx1728",
+"x2": "rxbx1728"
+},
+"sfbx2074|2074": {
+"t1": "ecbx2074",
+"t2a": "labx2074",
+"t2b": "lbbx2074",
+"t2c": "lcbx2074",
+"ts1": "tcbx2074",
+"x2": "rxbx2074"
+},
+"sfbx2488|2488": {
+"t1": "ecbx2488",
+"t2a": "labx2488",
+"t2b": "lbbx2488",
+"t2c": "lcbx2488",
+"ts1": "tcbx2488",
+"x2": "rxbx2488"
+},
+"sfbx2986|2986": {
+"t1": "ecbx2986",
+"t2a": "labx2986",
+"t2b": "lbbx2986",
+"t2c": "lcbx2986",
+"ts1": "tcbx2986",
+"x2": "rxbx2986"
+},
+"sfbx3583|3583": {
+"t1": "ecbx3583",
+"t2a": "labx3583",
+"t2b": "lbbx3583",
+"t2c": "lcbx3583",
+"ts1": "tcbx3583",
+"x2": "rxbx3583"
+},
+"sfbl0500|0500": {
+"t1": "ecbl0500",
+"t2a": "labl0500",
+"t2b": "lbbl0500",
+"t2c": "lcbl0500",
+"ts1": "tcbl0500",
+"x2": "rxbl0500"
+},
+"sfbl0600|0600": {
+"t1": "ecbl0600",
+"t2a": "labl0600",
+"t2b": "lbbl0600",
+"t2c": "lcbl0600",
+"ts1": "tcbl0600",
+"x2": "rxbl0600"
+},
+"sfbl0700|0700": {
+"t1": "ecbl0700",
+"t2a": "labl0700",
+"t2b": "lbbl0700",
+"t2c": "lcbl0700",
+"ts1": "tcbl0700",
+"x2": "rxbl0700"
+},
+"sfbl0800|0800": {
+"t1": "ecbl0800",
+"t2a": "labl0800",
+"t2b": "lbbl0800",
+"t2c": "lcbl0800",
+"ts1": "tcbl0800",
+"x2": "rxbl0800"
+},
+"sfbl0900|0900": {
+"t1": "ecbl0900",
+"t2a": "labl0900",
+"t2b": "lbbl0900",
+"t2c": "lcbl0900",
+"ts1": "tcbl0900",
+"x2": "rxbl0900"
+},
+"sfbl1095|1095": {
+"t1": "ecbl1095",
+"t2a": "labl1095",
+"t2b": "lbbl1095",
+"t2c": "lcbl1095",
+"ts1": "tcbl1095",
+"x2": "rxbl1095"
+},
+"sfbl1200|1200": {
+"t1": "ecbl1200",
+"t2a": "labl1200",
+"t2b": "lbbl1200",
+"t2c": "lcbl1200",
+"ts1": "tcbl1200",
+"x2": "rxbl1200"
+},
+"sfbl1440|1440": {
+"t1": "ecbl1440",
+"t2a": "labl1440",
+"t2b": "lbbl1440",
+"t2c": "lcbl1440",
+"ts1": "tcbl1440",
+"x2": "rxbl1440"
+},
+"sfbl1728|1728": {
+"t1": "ecbl1728",
+"t2a": "labl1728",
+"t2b": "lbbl1728",
+"t2c": "lcbl1728",
+"ts1": "tcbl1728",
+"x2": "rxbl1728"
+},
+"sfbl2074|2074": {
+"t1": "ecbl2074",
+"t2a": "labl2074",
+"t2b": "lbbl2074",
+"t2c": "lcbl2074",
+"ts1": "tcbl2074",
+"x2": "rxbl2074"
+},
+"sfbl2488|2488": {
+"t1": "ecbl2488",
+"t2a": "labl2488",
+"t2b": "lbbl2488",
+"t2c": "lcbl2488",
+"ts1": "tcbl2488",
+"x2": "rxbl2488"
+},
+"sfbl2986|2986": {
+"t1": "ecbl2986",
+"t2a": "labl2986",
+"t2b": "lbbl2986",
+"t2c": "lcbl2986",
+"ts1": "tcbl2986",
+"x2": "rxbl2986"
+},
+"sfbl3583|3583": {
+"t1": "ecbl3583",
+"t2a": "labl3583",
+"t2b": "lbbl3583",
+"t2c": "lcbl3583",
+"ts1": "tcbl3583",
+"x2": "rxbl3583"
+},
+"sfbi0500|0500": {
+"t1": "ecbi0500",
+"t2a": "labi0500",
+"t2b": "lbbi0500",
+"t2c": "lcbi0500",
+"ts1": "tcbi0500",
+"x2": "rxbi0500"
+},
+"sfbi0600|0600": {
+"t1": "ecbi0600",
+"t2a": "labi0600",
+"t2b": "lbbi0600",
+"t2c": "lcbi0600",
+"ts1": "tcbi0600",
+"x2": "rxbi0600"
+},
+"sfbi0700|0700": {
+"t1": "ecbi0700",
+"t2a": "labi0700",
+"t2b": "lbbi0700",
+"t2c": "lcbi0700",
+"ts1": "tcbi0700",
+"x2": "rxbi0700"
+},
+"sfbi0800|0800": {
+"t1": "ecbi0800",
+"t2a": "labi0800",
+"t2b": "lbbi0800",
+"t2c": "lcbi0800",
+"ts1": "tcbi0800",
+"x2": "rxbi0800"
+},
+"sfbi0900|0900": {
+"t1": "ecbi0900",
+"t2a": "labi0900",
+"t2b": "lbbi0900",
+"t2c": "lcbi0900",
+"ts1": "tcbi0900",
+"x2": "rxbi0900"
+},
+"sfbi1095|1095": {
+"t1": "ecbi1095",
+"t2a": "labi1095",
+"t2b": "lbbi1095",
+"t2c": "lcbi1095",
+"ts1": "tcbi1095",
+"x2": "rxbi1095"
+},
+"sfbi1200|1200": {
+"t1": "ecbi1200",
+"t2a": "labi1200",
+"t2b": "lbbi1200",
+"t2c": "lcbi1200",
+"ts1": "tcbi1200",
+"x2": "rxbi1200"
+},
+"sfbi1440|1440": {
+"t1": "ecbi1440",
+"t2a": "labi1440",
+"t2b": "lbbi1440",
+"t2c": "lcbi1440",
+"ts1": "tcbi1440",
+"x2": "rxbi1440"
+},
+"sfbi1728|1728": {
+"t1": "ecbi1728",
+"t2a": "labi1728",
+"t2b": "lbbi1728",
+"t2c": "lcbi1728",
+"ts1": "tcbi1728",
+"x2": "rxbi1728"
+},
+"sfbi2074|2074": {
+"t1": "ecbi2074",
+"t2a": "labi2074",
+"t2b": "lbbi2074",
+"t2c": "lcbi2074",
+"ts1": "tcbi2074",
+"x2": "rxbi2074"
+},
+"sfbi2488|2488": {
+"t1": "ecbi2488",
+"t2a": "labi2488",
+"t2b": "lbbi2488",
+"t2c": "lcbi2488",
+"ts1": "tcbi2488",
+"x2": "rxbi2488"
+},
+"sfbi2986|2986": {
+"t1": "ecbi2986",
+"t2a": "labi2986",
+"t2b": "lbbi2986",
+"t2c": "lcbi2986",
+"ts1": "tcbi2986",
+"x2": "rxbi2986"
+},
+"sfbi3583|3583": {
+"t1": "ecbi3583",
+"t2a": "labi3583",
+"t2b": "lbbi3583",
+"t2c": "lcbi3583",
+"ts1": "tcbi3583",
+"x2": "rxbi3583"
+},
+"sfxc0500|0500": {
+"t1": "ecxc0500",
+"t2a": "laxc0500",
+"t2b": "lbxc0500",
+"t2c": "lcxc0500",
+"x2": "rxxc0500"
+},
+"sfxc0600|0600": {
+"t1": "ecxc0600",
+"t2a": "laxc0600",
+"t2b": "lbxc0600",
+"t2c": "lcxc0600",
+"x2": "rxxc0600"
+},
+"sfxc0700|0700": {
+"t1": "ecxc0700",
+"t2a": "laxc0700",
+"t2b": "lbxc0700",
+"t2c": "lcxc0700",
+"x2": "rxxc0700"
+},
+"sfxc0800|0800": {
+"t1": "ecxc0800",
+"t2a": "laxc0800",
+"t2b": "lbxc0800",
+"t2c": "lcxc0800",
+"x2": "rxxc0800"
+},
+"sfxc0900|0900": {
+"t1": "ecxc0900",
+"t2a": "laxc0900",
+"t2b": "lbxc0900",
+"t2c": "lcxc0900",
+"x2": "rxxc0900"
+},
+"sfxc1095|1095": {
+"t1": "ecxc1095",
+"t2a": "laxc1095",
+"t2b": "lbxc1095",
+"t2c": "lcxc1095",
+"x2": "rxxc1095"
+},
+"sfxc1200|1200": {
+"t1": "ecxc1200",
+"t2a": "laxc1200",
+"t2b": "lbxc1200",
+"t2c": "lcxc1200",
+"x2": "rxxc1200"
+},
+"sfxc1440|1440": {
+"t1": "ecxc1440",
+"t2a": "laxc1440",
+"t2b": "lbxc1440",
+"t2c": "lcxc1440",
+"x2": "rxxc1440"
+},
+"sfxc1728|1728": {
+"t1": "ecxc1728",
+"t2a": "laxc1728",
+"t2b": "lbxc1728",
+"t2c": "lcxc1728",
+"x2": "rxxc1728"
+},
+"sfxc2074|2074": {
+"t1": "ecxc2074",
+"t2a": "laxc2074",
+"t2b": "lbxc2074",
+"t2c": "lcxc2074",
+"x2": "rxxc2074"
+},
+"sfxc2488|2488": {
+"t1": "ecxc2488",
+"t2a": "laxc2488",
+"t2b": "lbxc2488",
+"t2c": "lcxc2488",
+"x2": "rxxc2488"
+},
+"sfxc2986|2986": {
+"t1": "ecxc2986",
+"t2a": "laxc2986",
+"t2b": "lbxc2986",
+"t2c": "lcxc2986",
+"x2": "rxxc2986"
+},
+"sfxc3583|3583": {
+"t1": "ecxc3583",
+"t2a": "laxc3583",
+"t2b": "lbxc3583",
+"t2c": "lcxc3583",
+"x2": "rxxc3583"
+},
+"sfoc0500|0500": {
+"t1": "ecoc0500",
+"t2a": "laoc0500",
+"t2b": "lboc0500",
+"t2c": "lcoc0500",
+"x2": "rxoc0500"
+},
+"sfoc0600|0600": {
+"t1": "ecoc0600",
+"t2a": "laoc0600",
+"t2b": "lboc0600",
+"t2c": "lcoc0600",
+"x2": "rxoc0600"
+},
+"sfoc0700|0700": {
+"t1": "ecoc0700",
+"t2a": "laoc0700",
+"t2b": "lboc0700",
+"t2c": "lcoc0700",
+"x2": "rxoc0700"
+},
+"sfoc0800|0800": {
+"t1": "ecoc0800",
+"t2a": "laoc0800",
+"t2b": "lboc0800",
+"t2c": "lcoc0800",
+"x2": "rxoc0800"
+},
+"sfoc0900|0900": {
+"t1": "ecoc0900",
+"t2a": "laoc0900",
+"t2b": "lboc0900",
+"t2c": "lcoc0900",
+"x2": "rxoc0900"
+},
+"sfoc1095|1095": {
+"t1": "ecoc1095",
+"t2a": "laoc1095",
+"t2b": "lboc1095",
+"t2c": "lcoc1095",
+"x2": "rxoc1095"
+},
+"sfoc1200|1200": {
+"t1": "ecoc1200",
+"t2a": "laoc1200",
+"t2b": "lboc1200",
+"t2c": "lcoc1200",
+"x2": "rxoc1200"
+},
+"sfoc1440|1440": {
+"t1": "ecoc1440",
+"t2a": "laoc1440",
+"t2b": "lboc1440",
+"t2c": "lcoc1440",
+"x2": "rxoc1440"
+},
+"sfoc1728|1728": {
+"t1": "ecoc1728",
+"t2a": "laoc1728",
+"t2b": "lboc1728",
+"t2c": "lcoc1728",
+"x2": "rxoc1728"
+},
+"sfoc2074|2074": {
+"t1": "ecoc2074",
+"t2a": "laoc2074",
+"t2b": "lboc2074",
+"t2c": "lcoc2074",
+"x2": "rxoc2074"
+},
+"sfoc2488|2488": {
+"t1": "ecoc2488",
+"t2a": "laoc2488",
+"t2b": "lboc2488",
+"t2c": "lcoc2488",
+"x2": "rxoc2488"
+},
+"sfoc2986|2986": {
+"t1": "ecoc2986",
+"t2a": "laoc2986",
+"t2b": "lboc2986",
+"t2c": "lcoc2986",
+"x2": "rxoc2986"
+},
+"sfoc3583|3583": {
+"t1": "ecoc3583",
+"t2a": "laoc3583",
+"t2b": "lboc3583",
+"t2c": "lcoc3583",
+"x2": "rxoc3583"
+},
+"sfrb0500|0500": {
+"t1": "ecrb0500",
+"t2a": "larb0500",
+"t2b": "lbrb0500",
+"t2c": "lcrb0500",
+"ts1": "tcrb0500",
+"x2": "rxrb0500"
+},
+"sfrb0600|0600": {
+"t1": "ecrb0600",
+"t2a": "larb0600",
+"t2b": "lbrb0600",
+"t2c": "lcrb0600",
+"ts1": "tcrb0600",
+"x2": "rxrb0600"
+},
+"sfrb0700|0700": {
+"t1": "ecrb0700",
+"t2a": "larb0700",
+"t2b": "lbrb0700",
+"t2c": "lcrb0700",
+"ts1": "tcrb0700",
+"x2": "rxrb0700"
+},
+"sfrb0800|0800": {
+"t1": "ecrb0800",
+"t2a": "larb0800",
+"t2b": "lbrb0800",
+"t2c": "lcrb0800",
+"ts1": "tcrb0800",
+"x2": "rxrb0800"
+},
+"sfrb0900|0900": {
+"t1": "ecrb0900",
+"t2a": "larb0900",
+"t2b": "lbrb0900",
+"t2c": "lcrb0900",
+"ts1": "tcrb0900",
+"x2": "rxrb0900"
+},
+"sfrb1095|1095": {
+"t1": "ecrb1095",
+"t2a": "larb1095",
+"t2b": "lbrb1095",
+"t2c": "lcrb1095",
+"ts1": "tcrb1095",
+"x2": "rxrb1095"
+},
+"sfrb1200|1200": {
+"t1": "ecrb1200",
+"t2a": "larb1200",
+"t2b": "lbrb1200",
+"t2c": "lcrb1200",
+"ts1": "tcrb1200",
+"x2": "rxrb1200"
+},
+"sfrb1440|1440": {
+"t1": "ecrb1440",
+"t2a": "larb1440",
+"t2b": "lbrb1440",
+"t2c": "lcrb1440",
+"ts1": "tcrb1440",
+"x2": "rxrb1440"
+},
+"sfrb1728|1728": {
+"t1": "ecrb1728",
+"t2a": "larb1728",
+"t2b": "lbrb1728",
+"t2c": "lcrb1728",
+"ts1": "tcrb1728",
+"x2": "rxrb1728"
+},
+"sfrb2074|2074": {
+"t1": "ecrb2074",
+"t2a": "larb2074",
+"t2b": "lbrb2074",
+"t2c": "lcrb2074",
+"ts1": "tcrb2074",
+"x2": "rxrb2074"
+},
+"sfrb2488|2488": {
+"t1": "ecrb2488",
+"t2a": "larb2488",
+"t2b": "lbrb2488",
+"t2c": "lcrb2488",
+"ts1": "tcrb2488",
+"x2": "rxrb2488"
+},
+"sfrb2986|2986": {
+"t1": "ecrb2986",
+"t2a": "larb2986",
+"t2b": "lbrb2986",
+"t2c": "lcrb2986",
+"ts1": "tcrb2986",
+"x2": "rxrb2986"
+},
+"sfrb3583|3583": {
+"t1": "ecrb3583",
+"t2a": "larb3583",
+"t2b": "lbrb3583",
+"t2c": "lcrb3583",
+"ts1": "tcrb3583",
+"x2": "rxrb3583"
+},
+"sfbm0500|0500": {
+"t1": "ecbm0500",
+"t2a": "labm0500",
+"t2b": "lbbm0500",
+"t2c": "lcbm0500",
+"ts1": "tcbm0500",
+"x2": "rxbm0500"
+},
+"sfbm0700|0600": {
+"t1": "ecbm0600",
+"t2a": "labm0600",
+"t2b": "lbbm0600",
+"t2c": "lcbm0600",
+"ts1": "tcbm0600",
+"x2": "rxbm0600"
+},
+"sfbm0700|0700": {
+"t1": "ecbm0700",
+"t2a": "labm0700",
+"t2b": "lbbm0700",
+"t2c": "lcbm0700",
+"ts1": "tcbm0700",
+"x2": "rxbm0700"
+},
+"sfbm0900|0800": {
+"t1": "ecbm0800",
+"t2a": "labm0800",
+"t2b": "lbbm0800",
+"t2c": "lcbm0800",
+"ts1": "tcbm0800",
+"x2": "rxbm0800"
+},
+"sfbm0900|0900": {
+"t1": "ecbm0900",
+"t2a": "labm0900",
+"t2b": "lbbm0900",
+"t2c": "lcbm0900",
+"ts1": "tcbm0900",
+"x2": "rxbm0900"
+},
+"sfbm1095|1095": {
+"t1": "ecbm1095",
+"t2a": "labm1095",
+"t2b": "lbbm1095",
+"t2c": "lcbm1095",
+"ts1": "tcbm1095",
+"x2": "rxbm1095"
+},
+"sfbm1200|1200": {
+"t1": "ecbm1200",
+"t2a": "labm1200",
+"t2b": "lbbm1200",
+"t2c": "lcbm1200",
+"ts1": "tcbm1200",
+"x2": "rxbm1200"
+},
+"sfbm1440|1440": {
+"t1": "ecbm1440",
+"t2a": "labm1440",
+"t2b": "lbbm1440",
+"t2c": "lcbm1440",
+"ts1": "tcbm1440",
+"x2": "rxbm1440"
+},
+"sfbm1728|1728": {
+"t1": "ecbm1728",
+"t2a": "labm1728",
+"t2b": "lbbm1728",
+"t2c": "lcbm1728",
+"ts1": "tcbm1728",
+"x2": "rxbm1728"
+},
+"sfbm2074|2074": {
+"t1": "ecbm2074",
+"t2a": "labm2074",
+"t2b": "lbbm2074",
+"t2c": "lcbm2074",
+"ts1": "tcbm2074",
+"x2": "rxbm2074"
+},
+"sfbm2488|2488": {
+"t1": "ecbm2488",
+"t2a": "labm2488",
+"t2b": "lbbm2488",
+"t2c": "lcbm2488",
+"ts1": "tcbm2488",
+"x2": "rxbm2488"
+},
+"sfbm2986|2986": {
+"t1": "ecbm2986",
+"t2a": "labm2986",
+"t2b": "lbbm2986",
+"t2c": "lcbm2986",
+"ts1": "tcbm2986",
+"x2": "rxbm2986"
+},
+"sfbm3583|3583": {
+"t1": "ecbm3583",
+"t2a": "labm3583",
+"t2b": "lbbm3583",
+"t2c": "lcbm3583",
+"ts1": "tcbm3583",
+"x2": "rxbm3583"
+},
+"sfss0500|0500": {
+"t1": "ecss0500",
+"t2a": "lass0500",
+"t2b": "lbss0500",
+"t2c": "lcss0500",
+"ts1": "tcss0500",
+"x2": "rxss0500"
+},
+"sfss0600|0600": {
+"t1": "ecss0600",
+"t2a": "lass0600",
+"t2b": "lbss0600",
+"t2c": "lcss0600",
+"ts1": "tcss0600",
+"x2": "rxss0600"
+},
+"sfss0700|0700": {
+"t1": "ecss0700",
+"t2a": "lass0700",
+"t2b": "lbss0700",
+"t2c": "lcss0700",
+"ts1": "tcss0700",
+"x2": "rxss0700"
+},
+"sfss0800|0800": {
+"t1": "ecss0800",
+"t2a": "lass0800",
+"t2b": "lbss0800",
+"t2c": "lcss0800",
+"ts1": "tcss0800",
+"x2": "rxss0800"
+},
+"sfss0900|0900": {
+"t1": "ecss0900",
+"t2a": "lass0900",
+"t2b": "lbss0900",
+"t2c": "lcss0900",
+"ts1": "tcss0900",
+"x2": "rxss0900"
+},
+"sfss1095|1095": {
+"t1": "ecss1095",
+"t2a": "lass1095",
+"t2b": "lbss1095",
+"t2c": "lcss1095",
+"ts1": "tcss1095",
+"x2": "rxss1095"
+},
+"sfss1200|1200": {
+"t1": "ecss1200",
+"t2a": "lass1200",
+"t2b": "lbss1200",
+"t2c": "lcss1200",
+"ts1": "tcss1200",
+"x2": "rxss1200"
+},
+"sfss1440|1440": {
+"t1": "ecss1440",
+"t2a": "lass1440",
+"t2b": "lbss1440",
+"t2c": "lcss1440",
+"ts1": "tcss1440",
+"x2": "rxss1440"
+},
+"sfss1728|1728": {
+"t1": "ecss1728",
+"t2a": "lass1728",
+"t2b": "lbss1728",
+"t2c": "lcss1728",
+"ts1": "tcss1728",
+"x2": "rxss1728"
+},
+"sfss2074|2074": {
+"t1": "ecss2074",
+"t2a": "lass2074",
+"t2b": "lbss2074",
+"t2c": "lcss2074",
+"ts1": "tcss2074",
+"x2": "rxss2074"
+},
+"sfss2488|2488": {
+"t1": "ecss2488",
+"t2a": "lass2488",
+"t2b": "lbss2488",
+"t2c": "lcss2488",
+"ts1": "tcss2488",
+"x2": "rxss2488"
+},
+"sfss2986|2986": {
+"t1": "ecss2986",
+"t2a": "lass2986",
+"t2b": "lbss2986",
+"t2c": "lcss2986",
+"ts1": "tcss2986",
+"x2": "rxss2986"
+},
+"sfss3583|3583": {
+"t1": "ecss3583",
+"t2a": "lass3583",
+"t2b": "lbss3583",
+"t2c": "lcss3583",
+"ts1": "tcss3583",
+"x2": "rxss3583"
+},
+"sfsi0500|0500": {
+"t1": "ecsi0500",
+"t2a": "lasi0500",
+"t2b": "lbsi0500",
+"t2c": "lcsi0500",
+"ts1": "tcsi0500",
+"x2": "rxsi0500"
+},
+"sfsi0600|0600": {
+"t1": "ecsi0600",
+"t2a": "lasi0600",
+"t2b": "lbsi0600",
+"t2c": "lcsi0600",
+"ts1": "tcsi0600",
+"x2": "rxsi0600"
+},
+"sfsi0700|0700": {
+"t1": "ecsi0700",
+"t2a": "lasi0700",
+"t2b": "lbsi0700",
+"t2c": "lcsi0700",
+"ts1": "tcsi0700",
+"x2": "rxsi0700"
+},
+"sfsi0800|0800": {
+"t1": "ecsi0800",
+"t2a": "lasi0800",
+"t2b": "lbsi0800",
+"t2c": "lcsi0800",
+"ts1": "tcsi0800",
+"x2": "rxsi0800"
+},
+"sfsi0900|0900": {
+"t1": "ecsi0900",
+"t2a": "lasi0900",
+"t2b": "lbsi0900",
+"t2c": "lcsi0900",
+"ts1": "tcsi0900",
+"x2": "rxsi0900"
+},
+"sfsi1095|1095": {
+"t1": "ecsi1095",
+"t2a": "lasi1095",
+"t2b": "lbsi1095",
+"t2c": "lcsi1095",
+"ts1": "tcsi1095",
+"x2": "rxsi1095"
+},
+"sfsi1200|1200": {
+"t1": "ecsi1200",
+"t2a": "lasi1200",
+"t2b": "lbsi1200",
+"t2c": "lcsi1200",
+"ts1": "tcsi1200",
+"x2": "rxsi1200"
+},
+"sfsi1440|1440": {
+"t1": "ecsi1440",
+"t2a": "lasi1440",
+"t2b": "lbsi1440",
+"t2c": "lcsi1440",
+"ts1": "tcsi1440",
+"x2": "rxsi1440"
+},
+"sfsi1728|1728": {
+"t1": "ecsi1728",
+"t2a": "lasi1728",
+"t2b": "lbsi1728",
+"t2c": "lcsi1728",
+"ts1": "tcsi1728",
+"x2": "rxsi1728"
+},
+"sfsi2074|2074": {
+"t1": "ecsi2074",
+"t2a": "lasi2074",
+"t2b": "lbsi2074",
+"t2c": "lcsi2074",
+"ts1": "tcsi2074",
+"x2": "rxsi2074"
+},
+"sfsi2488|2488": {
+"t1": "ecsi2488",
+"t2a": "lasi2488",
+"t2b": "lbsi2488",
+"t2c": "lcsi2488",
+"ts1": "tcsi2488",
+"x2": "rxsi2488"
+},
+"sfsi2986|2986": {
+"t1": "ecsi2986",
+"t2a": "lasi2986",
+"t2b": "lbsi2986",
+"t2c": "lcsi2986",
+"ts1": "tcsi2986",
+"x2": "rxsi2986"
+},
+"sfsi3583|3583": {
+"t1": "ecsi3583",
+"t2a": "lasi3583",
+"t2b": "lbsi3583",
+"t2c": "lcsi3583",
+"ts1": "tcsi3583",
+"x2": "rxsi3583"
+},
+"sfsx0500|0500": {
+"t1": "ecsx0500",
+"t2a": "lasx0500",
+"t2b": "lbsx0500",
+"t2c": "lcsx0500",
+"ts1": "tcsx0500",
+"x2": "rxsx0500"
+},
+"sfsx0600|0600": {
+"t1": "ecsx0600",
+"t2a": "lasx0600",
+"t2b": "lbsx0600",
+"t2c": "lcsx0600",
+"ts1": "tcsx0600",
+"x2": "rxsx0600"
+},
+"sfsx0700|0700": {
+"t1": "ecsx0700",
+"t2a": "lasx0700",
+"t2b": "lbsx0700",
+"t2c": "lcsx0700",
+"ts1": "tcsx0700",
+"x2": "rxsx0700"
+},
+"sfsx0800|0800": {
+"t1": "ecsx0800",
+"t2a": "lasx0800",
+"t2b": "lbsx0800",
+"t2c": "lcsx0800",
+"ts1": "tcsx0800",
+"x2": "rxsx0800"
+},
+"sfsx0900|0900": {
+"t1": "ecsx0900",
+"t2a": "lasx0900",
+"t2b": "lbsx0900",
+"t2c": "lcsx0900",
+"ts1": "tcsx0900",
+"x2": "rxsx0900"
+},
+"sfsx1095|1095": {
+"t1": "ecsx1095",
+"t2a": "lasx1095",
+"t2b": "lbsx1095",
+"t2c": "lcsx1095",
+"ts1": "tcsx1095",
+"x2": "rxsx1095"
+},
+"sfsx1200|1200": {
+"t1": "ecsx1200",
+"t2a": "lasx1200",
+"t2b": "lbsx1200",
+"t2c": "lcsx1200",
+"ts1": "tcsx1200",
+"x2": "rxsx1200"
+},
+"sfsx1440|1440": {
+"t1": "ecsx1440",
+"t2a": "lasx1440",
+"t2b": "lbsx1440",
+"t2c": "lcsx1440",
+"ts1": "tcsx1440",
+"x2": "rxsx1440"
+},
+"sfsx1728|1728": {
+"t1": "ecsx1728",
+"t2a": "lasx1728",
+"t2b": "lbsx1728",
+"t2c": "lcsx1728",
+"ts1": "tcsx1728",
+"x2": "rxsx1728"
+},
+"sfsx2074|2074": {
+"t1": "ecsx2074",
+"t2a": "lasx2074",
+"t2b": "lbsx2074",
+"t2c": "lcsx2074",
+"ts1": "tcsx2074",
+"x2": "rxsx2074"
+},
+"sfsx2488|2488": {
+"t1": "ecsx2488",
+"t2a": "lasx2488",
+"t2b": "lbsx2488",
+"t2c": "lcsx2488",
+"ts1": "tcsx2488",
+"x2": "rxsx2488"
+},
+"sfsx2986|2986": {
+"t1": "ecsx2986",
+"t2a": "lasx2986",
+"t2b": "lbsx2986",
+"t2c": "lcsx2986",
+"ts1": "tcsx2986",
+"x2": "rxsx2986"
+},
+"sfsx3583|3583": {
+"t1": "ecsx3583",
+"t2a": "lasx3583",
+"t2b": "lbsx3583",
+"t2c": "lcsx3583",
+"ts1": "tcsx3583",
+"x2": "rxsx3583"
+},
+"sfso0500|0500": {
+"t1": "ecso0500",
+"t2a": "laso0500",
+"t2b": "lbso0500",
+"t2c": "lcso0500",
+"ts1": "tcso0500",
+"x2": "rxso0500"
+},
+"sfso0600|0600": {
+"t1": "ecso0600",
+"t2a": "laso0600",
+"t2b": "lbso0600",
+"t2c": "lcso0600",
+"ts1": "tcso0600",
+"x2": "rxso0600"
+},
+"sfso0700|0700": {
+"t1": "ecso0700",
+"t2a": "laso0700",
+"t2b": "lbso0700",
+"t2c": "lcso0700",
+"ts1": "tcso0700",
+"x2": "rxso0700"
+},
+"sfso0800|0800": {
+"t1": "ecso0800",
+"t2a": "laso0800",
+"t2b": "lbso0800",
+"t2c": "lcso0800",
+"ts1": "tcso0800",
+"x2": "rxso0800"
+},
+"sfso0900|0900": {
+"t1": "ecso0900",
+"t2a": "laso0900",
+"t2b": "lbso0900",
+"t2c": "lcso0900",
+"ts1": "tcso0900",
+"x2": "rxso0900"
+},
+"sfso1095|1095": {
+"t1": "ecso1095",
+"t2a": "laso1095",
+"t2b": "lbso1095",
+"t2c": "lcso1095",
+"ts1": "tcso1095",
+"x2": "rxso1095"
+},
+"sfso1200|1200": {
+"t1": "ecso1200",
+"t2a": "laso1200",
+"t2b": "lbso1200",
+"t2c": "lcso1200",
+"ts1": "tcso1200",
+"x2": "rxso1200"
+},
+"sfso1440|1440": {
+"t1": "ecso1440",
+"t2a": "laso1440",
+"t2b": "lbso1440",
+"t2c": "lcso1440",
+"ts1": "tcso1440",
+"x2": "rxso1440"
+},
+"sfso1728|1728": {
+"t1": "ecso1728",
+"t2a": "laso1728",
+"t2b": "lbso1728",
+"t2c": "lcso1728",
+"ts1": "tcso1728",
+"x2": "rxso1728"
+},
+"sfso2074|2074": {
+"t1": "ecso2074",
+"t2a": "laso2074",
+"t2b": "lbso2074",
+"t2c": "lcso2074",
+"ts1": "tcso2074",
+"x2": "rxso2074"
+},
+"sfso2488|2488": {
+"t1": "ecso2488",
+"t2a": "laso2488",
+"t2b": "lbso2488",
+"t2c": "lcso2488",
+"ts1": "tcso2488",
+"x2": "rxso2488"
+},
+"sfso2986|2986": {
+"t1": "ecso2986",
+"t2a": "laso2986",
+"t2b": "lbso2986",
+"t2c": "lcso2986",
+"ts1": "tcso2986",
+"x2": "rxso2986"
+},
+"sfso3583|3583": {
+"t1": "ecso3583",
+"t2a": "laso3583",
+"t2b": "lbso3583",
+"t2c": "lcso3583",
+"ts1": "tcso3583",
+"x2": "rxso3583"
+},
+"sftt0800|0800": {
+"t1": "ectt0800",
+"t2a": "latt0800",
+"t2b": "lbtt0800",
+"t2c": "lctt0800",
+"ts1": "tctt0800",
+"x2": "rxtt0800"
+},
+"sftt0900|0900": {
+"t1": "ectt0900",
+"t2a": "latt0900",
+"t2b": "lbtt0900",
+"t2c": "lctt0900",
+"ts1": "tctt0900",
+"x2": "rxtt0900"
+},
+"sftt1095|1095": {
+"t1": "ectt1095",
+"t2a": "latt1095",
+"t2b": "lbtt1095",
+"t2c": "lctt1095",
+"ts1": "tctt1095",
+"x2": "rxtt1095"
+},
+"sftt1200|1200": {
+"t1": "ectt1200",
+"t2a": "latt1200",
+"t2b": "lbtt1200",
+"t2c": "lctt1200",
+"ts1": "tctt1200",
+"x2": "rxtt1200"
+},
+"sftt1440|1440": {
+"t1": "ectt1440",
+"t2a": "latt1440",
+"t2b": "lbtt1440",
+"t2c": "lctt1440",
+"ts1": "tctt1440",
+"x2": "rxtt1440"
+},
+"sftt1728|1728": {
+"t1": "ectt1728",
+"t2a": "latt1728",
+"t2b": "lbtt1728",
+"t2c": "lctt1728",
+"ts1": "tctt1728",
+"x2": "rxtt1728"
+},
+"sftt2074|2074": {
+"t1": "ectt2074",
+"t2a": "latt2074",
+"t2b": "lbtt2074",
+"t2c": "lctt2074",
+"ts1": "tctt2074",
+"x2": "rxtt2074"
+},
+"sftt2488|2488": {
+"t1": "ectt2488",
+"t2a": "latt2488",
+"t2b": "lbtt2488",
+"t2c": "lctt2488",
+"ts1": "tctt2488",
+"x2": "rxtt2488"
+},
+"sftt2986|2986": {
+"t1": "ectt2986",
+"t2a": "latt2986",
+"t2b": "lbtt2986",
+"t2c": "lctt2986",
+"ts1": "tctt2986",
+"x2": "rxtt2986"
+},
+"sftt3583|3583": {
+"t1": "ectt3583",
+"t2a": "latt3583",
+"t2b": "lbtt3583",
+"t2c": "lctt3583",
+"ts1": "tctt3583",
+"x2": "rxtt3583"
+},
+"sfst0800|0800": {
+"t1": "ecst0800",
+"t2a": "last0800",
+"t2b": "lbst0800",
+"t2c": "lcst0800",
+"ts1": "tcst0800",
+"x2": "rxst0800"
+},
+"sfst0900|0900": {
+"t1": "ecst0900",
+"t2a": "last0900",
+"t2b": "lbst0900",
+"t2c": "lcst0900",
+"ts1": "tcst0900",
+"x2": "rxst0900"
+},
+"sfst1095|1095": {
+"t1": "ecst1095",
+"t2a": "last1095",
+"t2b": "lbst1095",
+"t2c": "lcst1095",
+"ts1": "tcst1095",
+"x2": "rxst1095"
+},
+"sfst1200|1200": {
+"t1": "ecst1200",
+"t2a": "last1200",
+"t2b": "lbst1200",
+"t2c": "lcst1200",
+"ts1": "tcst1200",
+"x2": "rxst1200"
+},
+"sfst1440|1440": {
+"t1": "ecst1440",
+"t2a": "last1440",
+"t2b": "lbst1440",
+"t2c": "lcst1440",
+"ts1": "tcst1440",
+"x2": "rxst1440"
+},
+"sfst1728|1728": {
+"t1": "ecst1728",
+"t2a": "last1728",
+"t2b": "lbst1728",
+"t2c": "lcst1728",
+"ts1": "tcst1728",
+"x2": "rxst1728"
+},
+"sfst2074|2074": {
+"t1": "ecst2074",
+"t2a": "last2074",
+"t2b": "lbst2074",
+"t2c": "lcst2074",
+"ts1": "tcst2074",
+"x2": "rxst2074"
+},
+"sfst2488|2488": {
+"t1": "ecst2488",
+"t2a": "last2488",
+"t2b": "lbst2488",
+"t2c": "lcst2488",
+"ts1": "tcst2488",
+"x2": "rxst2488"
+},
+"sfst2986|2986": {
+"t1": "ecst2986",
+"t2a": "last2986",
+"t2b": "lbst2986",
+"t2c": "lcst2986",
+"ts1": "tcst2986",
+"x2": "rxst2986"
+},
+"sfst3583|3583": {
+"t1": "ecst3583",
+"t2a": "last3583",
+"t2b": "lbst3583",
+"t2c": "lcst3583",
+"ts1": "tcst3583",
+"x2": "rxst3583"
+},
+"sfit0800|0800": {
+"t1": "ecit0800",
+"t2a": "lait0800",
+"t2b": "lbit0800",
+"t2c": "lcit0800",
+"ts1": "tcit0800",
+"x2": "rxit0800"
+},
+"sfit0900|0900": {
+"t1": "ecit0900",
+"t2a": "lait0900",
+"t2b": "lbit0900",
+"t2c": "lcit0900",
+"ts1": "tcit0900",
+"x2": "rxit0900"
+},
+"sfit1095|1095": {
+"t1": "ecit1095",
+"t2a": "lait1095",
+"t2b": "lbit1095",
+"t2c": "lcit1095",
+"ts1": "tcit1095",
+"x2": "rxit1095"
+},
+"sfit1200|1200": {
+"t1": "ecit1200",
+"t2a": "lait1200",
+"t2b": "lbit1200",
+"t2c": "lcit1200",
+"ts1": "tcit1200",
+"x2": "rxit1200"
+},
+"sfit1440|1440": {
+"t1": "ecit1440",
+"t2a": "lait1440",
+"t2b": "lbit1440",
+"t2c": "lcit1440",
+"ts1": "tcit1440",
+"x2": "rxit1440"
+},
+"sfit1728|1728": {
+"t1": "ecit1728",
+"t2a": "lait1728",
+"t2b": "lbit1728",
+"t2c": "lcit1728",
+"ts1": "tcit1728",
+"x2": "rxit1728"
+},
+"sfit2074|2074": {
+"t1": "ecit2074",
+"t2a": "lait2074",
+"t2b": "lbit2074",
+"t2c": "lcit2074",
+"ts1": "tcit2074",
+"x2": "rxit2074"
+},
+"sfit2488|2488": {
+"t1": "ecit2488",
+"t2a": "lait2488",
+"t2b": "lbit2488",
+"t2c": "lcit2488",
+"ts1": "tcit2488",
+"x2": "rxit2488"
+},
+"sfit2488|2986": {
+"t1": "ecit2986",
+"t2a": "lait2986",
+"t2b": "lbit2986",
+"t2c": "lcit2986",
+"ts1": "tcit2986",
+"x2": "rxit2986"
+},
+"sfit2488|3583": {
+"t1": "ecit3583",
+"t2a": "lait3583",
+"t2b": "lbit3583",
+"t2c": "lcit3583",
+"ts1": "tcit3583",
+"x2": "rxit3583"
+},
+"sftc0800|0800": {
+"t1": "ectc0800",
+"t2a": "latc0800",
+"t2b": "lbtc0800",
+"t2c": "lctc0800",
+"x2": "rxtc0800"
+},
+"sftc0900|0900": {
+"t1": "ectc0900",
+"t2a": "latc0900",
+"t2b": "lbtc0900",
+"t2c": "lctc0900",
+"x2": "rxtc0900"
+},
+"sftc1095|1095": {
+"t1": "ectc1095",
+"t2a": "latc1095",
+"t2b": "lbtc1095",
+"t2c": "lctc1095",
+"x2": "rxtc1095"
+},
+"sftc1200|1200": {
+"t1": "ectc1200",
+"t2a": "latc1200",
+"t2b": "lbtc1200",
+"t2c": "lctc1200",
+"x2": "rxtc1200"
+},
+"sftc1440|1440": {
+"t1": "ectc1440",
+"t2a": "latc1440",
+"t2b": "lbtc1440",
+"t2c": "lctc1440",
+"x2": "rxtc1440"
+},
+"sftc1728|1728": {
+"t1": "ectc1728",
+"t2a": "latc1728",
+"t2b": "lbtc1728",
+"t2c": "lctc1728",
+"x2": "rxtc1728"
+},
+"sftc2074|2074": {
+"t1": "ectc2074",
+"t2a": "latc2074",
+"t2b": "lbtc2074",
+"t2c": "lctc2074",
+"x2": "rxtc2074"
+},
+"sftc2488|2488": {
+"t1": "ectc2488",
+"t2a": "latc2488",
+"t2b": "lbtc2488",
+"t2c": "lctc2488",
+"x2": "rxtc2488"
+},
+"sftc2986|2986": {
+"t1": "ectc2986",
+"t2a": "latc2986",
+"t2b": "lbtc2986",
+"t2c": "lctc2986",
+"x2": "rxtc2986"
+},
+"sftc3583|3583": {
+"t1": "ectc3583",
+"t2a": "latc3583",
+"t2b": "lbtc3583",
+"t2c": "lctc3583",
+"x2": "rxtc3583"
+},
+"sfvt0800|0800": {
+"t1": "ecvt0800",
+"t2a": "lavt0800",
+"t2b": "lbvt0800",
+"t2c": "lcvt0800",
+"ts1": "tcvt0800",
+"x2": "rxvt0800"
+},
+"sfvt0900|0900": {
+"t1": "ecvt0900",
+"t2a": "lavt0900",
+"t2b": "lbvt0900",
+"t2c": "lcvt0900",
+"ts1": "tcvt0900",
+"x2": "rxvt0900"
+},
+"sfvt1095|1095": {
+"t1": "ecvt1095",
+"t2a": "lavt1095",
+"t2b": "lbvt1095",
+"t2c": "lcvt1095",
+"ts1": "tcvt1095",
+"x2": "rxvt1095"
+},
+"sfvt1200|1200": {
+"t1": "ecvt1200",
+"t2a": "lavt1200",
+"t2b": "lbvt1200",
+"t2c": "lcvt1200",
+"ts1": "tcvt1200",
+"x2": "rxvt1200"
+},
+"sfvt1440|1440": {
+"t1": "ecvt1440",
+"t2a": "lavt1440",
+"t2b": "lbvt1440",
+"t2c": "lcvt1440",
+"ts1": "tcvt1440",
+"x2": "rxvt1440"
+},
+"sfvt1728|1728": {
+"t1": "ecvt1728",
+"t2a": "lavt1728",
+"t2b": "lbvt1728",
+"t2c": "lcvt1728",
+"ts1": "tcvt1728",
+"x2": "rxvt1728"
+},
+"sfvt2074|2074": {
+"t1": "ecvt2074",
+"t2a": "lavt2074",
+"t2b": "lbvt2074",
+"t2c": "lcvt2074",
+"ts1": "tcvt2074",
+"x2": "rxvt2074"
+},
+"sfvt2488|2488": {
+"t1": "ecvt2488",
+"t2a": "lavt2488",
+"t2b": "lbvt2488",
+"t2c": "lcvt2488",
+"ts1": "tcvt2488",
+"x2": "rxvt2488"
+},
+"sfvt2986|2986": {
+"t1": "ecvt2986",
+"t2a": "lavt2986",
+"t2b": "lbvt2986",
+"t2c": "lcvt2986",
+"ts1": "tcvt2986",
+"x2": "rxvt2986"
+},
+"sfvt3583|3583": {
+"t1": "ecvt3583",
+"t2a": "lavt3583",
+"t2b": "lbvt3583",
+"t2c": "lcvt3583",
+"ts1": "tcvt3583",
+"x2": "rxvt3583"
+},
+"sfvi0800|0800": {
+"t1": "ecvi0800",
+"t2a": "lavi0800",
+"t2b": "lbvi0800",
+"t2c": "lcvi0800",
+"ts1": "tcvi0800",
+"x2": "rxvi0800"
+},
+"sfvi0900|0900": {
+"t1": "ecvi0900",
+"t2a": "lavi0900",
+"t2b": "lbvi0900",
+"t2c": "lcvi0900",
+"ts1": "tcvi0900",
+"x2": "rxvi0900"
+},
+"sfvi1095|1095": {
+"t1": "ecvi1095",
+"t2a": "lavi1095",
+"t2b": "lbvi1095",
+"t2c": "lcvi1095",
+"ts1": "tcvi1095",
+"x2": "rxvi1095"
+},
+"sfvi1200|1200": {
+"t1": "ecvi1200",
+"t2a": "lavi1200",
+"t2b": "lbvi1200",
+"t2c": "lcvi1200",
+"ts1": "tcvi1200",
+"x2": "rxvi1200"
+},
+"sfvi1440|1440": {
+"t1": "ecvi1440",
+"t2a": "lavi1440",
+"t2b": "lbvi1440",
+"t2c": "lcvi1440",
+"ts1": "tcvi1440",
+"x2": "rxvi1440"
+},
+"sfvi1728|1728": {
+"t1": "ecvi1728",
+"t2a": "lavi1728",
+"t2b": "lbvi1728",
+"t2c": "lcvi1728",
+"ts1": "tcvi1728",
+"x2": "rxvi1728"
+},
+"sfvi2074|2074": {
+"t1": "ecvi2074",
+"t2a": "lavi2074",
+"t2b": "lbvi2074",
+"t2c": "lcvi2074",
+"ts1": "tcvi2074",
+"x2": "rxvi2074"
+},
+"sfvi2488|2488": {
+"t1": "ecvi2488",
+"t2a": "lavi2488",
+"t2b": "lbvi2488",
+"t2c": "lcvi2488",
+"ts1": "tcvi2488",
+"x2": "rxvi2488"
+},
+"sfvi2986|2986": {
+"t1": "ecvi2986",
+"t2a": "lavi2986",
+"t2b": "lbvi2986",
+"t2c": "lcvi2986",
+"ts1": "tcvi2986",
+"x2": "rxvi2986"
+},
+"sfvi3583|3583": {
+"t1": "ecvi3583",
+"t2a": "lavi3583",
+"t2b": "lbvi3583",
+"t2c": "lcvi3583",
+"ts1": "tcvi3583",
+"x2": "rxvi3583"
+},
+"sfdh0500|0500": {
+"t1": "ecdh0500",
+"t2a": "ladh0500",
+"t2b": "lbdh0500",
+"t2c": "lcdh0500",
+"ts1": "tcdh0500",
+"x2": "rxdh0500"
+},
+"sfdh0600|0600": {
+"t1": "ecdh0600",
+"t2a": "ladh0600",
+"t2b": "lbdh0600",
+"t2c": "lcdh0600",
+"ts1": "tcdh0600",
+"x2": "rxdh0600"
+},
+"sfdh0700|0700": {
+"t1": "ecdh0700",
+"t2a": "ladh0700",
+"t2b": "lbdh0700",
+"t2c": "lcdh0700",
+"ts1": "tcdh0700",
+"x2": "rxdh0700"
+},
+"sfdh0800|0800": {
+"t1": "ecdh0800",
+"t2a": "ladh0800",
+"t2b": "lbdh0800",
+"t2c": "lcdh0800",
+"ts1": "tcdh0800",
+"x2": "rxdh0800"
+},
+"sfdh0900|0900": {
+"t1": "ecdh0900",
+"t2a": "ladh0900",
+"t2b": "lbdh0900",
+"t2c": "lcdh0900",
+"ts1": "tcdh0900",
+"x2": "rxdh0900"
+},
+"sfdh1095|1095": {
+"t1": "ecdh1095",
+"t2a": "ladh1095",
+"t2b": "lbdh1095",
+"t2c": "lcdh1095",
+"ts1": "tcdh1095",
+"x2": "rxdh1095"
+},
+"sfdh1200|1200": {
+"t1": "ecdh1200",
+"t2a": "ladh1200",
+"t2b": "lbdh1200",
+"t2c": "lcdh1200",
+"ts1": "tcdh1200",
+"x2": "rxdh1200"
+},
+"sfdh1440|1440": {
+"t1": "ecdh1440",
+"t2a": "ladh1440",
+"t2b": "lbdh1440",
+"t2c": "lcdh1440",
+"ts1": "tcdh1440",
+"x2": "rxdh1440"
+},
+"sfdh1728|1728": {
+"t1": "ecdh1728",
+"t2a": "ladh1728",
+"t2b": "lbdh1728",
+"t2c": "lcdh1728",
+"ts1": "tcdh1728",
+"x2": "rxdh1728"
+},
+"sfdh2074|2074": {
+"t1": "ecdh2074",
+"t2a": "ladh2074",
+"t2b": "lbdh2074",
+"t2c": "lcdh2074",
+"ts1": "tcdh2074",
+"x2": "rxdh2074"
+},
+"sfdh2488|2488": {
+"t1": "ecdh2488",
+"t2a": "ladh2488",
+"t2b": "lbdh2488",
+"t2c": "lcdh2488",
+"ts1": "tcdh2488",
+"x2": "rxdh2488"
+},
+"sfdh2986|2986": {
+"t1": "ecdh2986",
+"t2a": "ladh2986",
+"t2b": "lbdh2986",
+"t2c": "lcdh2986",
+"ts1": "tcdh2986",
+"x2": "rxdh2986"
+},
+"sfdh3583|3583": {
+"t1": "ecdh3583",
+"t2a": "ladh3583",
+"t2b": "lbdh3583",
+"t2c": "lcdh3583",
+"ts1": "tcdh3583",
+"x2": "rxdh3583"
+},
+"sffb0500|0500": {
+"t1": "ecfb0500",
+"t2a": "lafb0500",
+"t2b": "lbfb0500",
+"t2c": "lcfb0500",
+"ts1": "tcfb0500",
+"x2": "rxfb0500"
+},
+"sffb0600|0600": {
+"t1": "ecfb0600",
+"t2a": "lafb0600",
+"t2b": "lbfb0600",
+"t2c": "lcfb0600",
+"ts1": "tcfb0600",
+"x2": "rxfb0600"
+},
+"sffb0700|0700": {
+"t1": "ecfb0700",
+"t2a": "lafb0700",
+"t2b": "lbfb0700",
+"t2c": "lcfb0700",
+"ts1": "tcfb0700",
+"x2": "rxfb0700"
+},
+"sffb0800|0800": {
+"t1": "ecfb0800",
+"t2a": "lafb0800",
+"t2b": "lbfb0800",
+"t2c": "lcfb0800",
+"ts1": "tcfb0800",
+"x2": "rxfb0800"
+},
+"sffb0900|0900": {
+"t1": "ecfb0900",
+"t2a": "lafb0900",
+"t2b": "lbfb0900",
+"t2c": "lcfb0900",
+"ts1": "tcfb0900",
+"x2": "rxfb0900"
+},
+"sffb1095|1095": {
+"t1": "ecfb1095",
+"t2a": "lafb1095",
+"t2b": "lbfb1095",
+"t2c": "lcfb1095",
+"ts1": "tcfb1095",
+"x2": "rxfb1095"
+},
+"sffb1200|1200": {
+"t1": "ecfb1200",
+"t2a": "lafb1200",
+"t2b": "lbfb1200",
+"t2c": "lcfb1200",
+"ts1": "tcfb1200",
+"x2": "rxfb1200"
+},
+"sffb1440|1440": {
+"t1": "ecfb1440",
+"t2a": "lafb1440",
+"t2b": "lbfb1440",
+"t2c": "lcfb1440",
+"ts1": "tcfb1440",
+"x2": "rxfb1440"
+},
+"sffb1728|1728": {
+"t1": "ecfb1728",
+"t2a": "lafb1728",
+"t2b": "lbfb1728",
+"t2c": "lcfb1728",
+"ts1": "tcfb1728",
+"x2": "rxfb1728"
+},
+"sffb2074|2074": {
+"t1": "ecfb2074",
+"t2a": "lafb2074",
+"t2b": "lbfb2074",
+"t2c": "lcfb2074",
+"ts1": "tcfb2074",
+"x2": "rxfb2074"
+},
+"sffs0500|0500": {
+"t1": "ecfs0500",
+"t2a": "lafs0500",
+"t2b": "lbfs0500",
+"t2c": "lcfs0500",
+"ts1": "tcfs0500",
+"x2": "rxfs0500"
+},
+"sffs0600|0600": {
+"t1": "ecfs0600",
+"t2a": "lafs0600",
+"t2b": "lbfs0600",
+"t2c": "lcfs0600",
+"ts1": "tcfs0600",
+"x2": "rxfs0600"
+},
+"sffs0700|0700": {
+"t1": "ecfs0700",
+"t2a": "lafs0700",
+"t2b": "lbfs0700",
+"t2c": "lcfs0700",
+"ts1": "tcfs0700",
+"x2": "rxfs0700"
+},
+"sffs0800|0800": {
+"t1": "ecfs0800",
+"t2a": "lafs0800",
+"t2b": "lbfs0800",
+"t2c": "lcfs0800",
+"ts1": "tcfs0800",
+"x2": "rxfs0800"
+},
+"sffs0900|0900": {
+"t1": "ecfs0900",
+"t2a": "lafs0900",
+"t2b": "lbfs0900",
+"t2c": "lcfs0900",
+"ts1": "tcfs0900",
+"x2": "rxfs0900"
+},
+"sffs1095|1095": {
+"t1": "ecfs1095",
+"t2a": "lafs1095",
+"t2b": "lbfs1095",
+"t2c": "lcfs1095",
+"ts1": "tcfs1095",
+"x2": "rxfs1095"
+},
+"sffs1200|1200": {
+"t1": "ecfs1200",
+"t2a": "lafs1200",
+"t2b": "lbfs1200",
+"t2c": "lcfs1200",
+"ts1": "tcfs1200",
+"x2": "rxfs1200"
+},
+"sffs1440|1440": {
+"t1": "ecfs1440",
+"t2a": "lafs1440",
+"t2b": "lbfs1440",
+"t2c": "lcfs1440",
+"ts1": "tcfs1440",
+"x2": "rxfs1440"
+},
+"sffs1728|1728": {
+"t1": "ecfs1728",
+"t2a": "lafs1728",
+"t2b": "lbfs1728",
+"t2c": "lcfs1728",
+"ts1": "tcfs1728",
+"x2": "rxfs1728"
+},
+"sffs2074|2074": {
+"t1": "ecfs2074",
+"t2a": "lafs2074",
+"t2b": "lbfs2074",
+"t2c": "lcfs2074",
+"ts1": "tcfs2074",
+"x2": "rxfs2074"
+},
+"sfff0900|0900": {
+"t1": "ecff0900",
+"t2a": "laff0900",
+"t2b": "lbff0900",
+"t2c": "lcff0900",
+"ts1": "tcff0900",
+"x2": "rxff0900"
+},
+"sfff1095|1095": {
+"t1": "ecff1095",
+"t2a": "laff1095",
+"t2b": "lbff1095",
+"t2c": "lcff1095",
+"ts1": "tcff1095",
+"x2": "rxff1095"
+},
+"sfff1200|1200": {
+"t1": "ecff1200",
+"t2a": "laff1200",
+"t2b": "lbff1200",
+"t2c": "lcff1200",
+"ts1": "tcff1200",
+"x2": "rxff1200"
+},
+"sfff1440|1440": {
+"t1": "ecff1440",
+"t2a": "laff1440",
+"t2b": "lbff1440",
+"t2c": "lcff1440",
+"ts1": "tcff1440",
+"x2": "rxff1440"
+},
+"sfff1440|1728": {
+"t1": "ecff1728",
+"t2a": "laff1728",
+"t2b": "lbff1728",
+"t2c": "lcff1728",
+"ts1": "tcff1728",
+"x2": "rxff1728"
+},
+"sfff2488|2074": {
+"t1": "ecff2074",
+"t2a": "laff2074",
+"t2b": "lbff2074",
+"t2c": "lcff2074",
+"ts1": "tcff2074",
+"x2": "rxff2074"
+},
+"sfff2488|2488": {
+"t1": "ecff2488",
+"t2a": "laff2488",
+"t2b": "lbff2488",
+"t2c": "lcff2488",
+"ts1": "tcff2488",
+"x2": "rxff2488"
+},
+"sfff2488|2986": {
+"t1": "ecff2986",
+"t2a": "laff2986",
+"t2b": "lbff2986",
+"t2c": "lcff2986",
+"ts1": "tcff2986",
+"x2": "rxff2986"
+},
+"sfff2488|3583": {
+"t1": "ecff3583",
+"t2a": "laff3583",
+"t2b": "lbff3583",
+"t2c": "lcff3583",
+"ts1": "tcff3583",
+"x2": "rxff3583"
+},
+"sffi0900|0900": {
+"t1": "ecfi0900",
+"t2a": "lafi0900",
+"t2b": "lbfi0900",
+"t2c": "lcfi0900",
+"ts1": "tcfi0900",
+"x2": "rxfi0900"
+},
+"sffi1095|1095": {
+"t1": "ecfi1095",
+"t2a": "lafi1095",
+"t2b": "lbfi1095",
+"t2c": "lcfi1095",
+"ts1": "tcfi1095",
+"x2": "rxfi1095"
+},
+"sffi1200|1200": {
+"t1": "ecfi1200",
+"t2a": "lafi1200",
+"t2b": "lbfi1200",
+"t2c": "lcfi1200",
+"ts1": "tcfi1200",
+"x2": "rxfi1200"
+},
+"sffi1440|1440": {
+"t1": "ecfi1440",
+"t2a": "lafi1440",
+"t2b": "lbfi1440",
+"t2c": "lcfi1440",
+"ts1": "tcfi1440",
+"x2": "rxfi1440"
+},
+"sffi1728|1728": {
+"t1": "ecfi1728",
+"t2a": "lafi1728",
+"t2b": "lbfi1728",
+"t2c": "lcfi1728",
+"ts1": "tcfi1728",
+"x2": "rxfi1728"
+},
+"sffi2074|2074": {
+"t1": "ecfi2074",
+"t2a": "lafi2074",
+"t2b": "lbfi2074",
+"t2c": "lcfi2074",
+"ts1": "tcfi2074",
+"x2": "rxfi2074"
+},
+"sffi2074|2488": {
+"t1": "ecfi2488",
+"t2a": "lafi2488",
+"t2b": "lbfi2488",
+"t2c": "lcfi2488",
+"ts1": "tcfi2488",
+"x2": "rxfi2488"
+},
+"sffi2074|2986": {
+"t1": "ecfi2986",
+"t2a": "lafi2986",
+"t2b": "lbfi2986",
+"t2c": "lcfi2986",
+"ts1": "tcfi2986",
+"x2": "rxfi2986"
+},
+"sffi2074|3583": {
+"t1": "ecfi3583",
+"t2a": "lafi3583",
+"t2b": "lbfi3583",
+"t2c": "lcfi3583",
+"ts1": "tcfi3583",
+"x2": "rxfi3583"
+},
+"sflq8|8": {
+"t1": "eclq8",
+"t2a": "lalq8",
+"t2b": "lblq8",
+"t2c": "lclq8",
+"x2": "rxlq8"
+},
+"sfli8|8": {
+"t1": "ecli8",
+"t2a": "lali8",
+"t2b": "lbli8",
+"t2c": "lcli8",
+"x2": "rxli8"
+},
+"sflb8|8": {
+"t1": "eclb8",
+"t2a": "lalb8",
+"t2b": "lblb8",
+"t2c": "lclb8",
+"x2": "rxlb8"
+},
+"sflo8|8": {
+"t1": "eclo8",
+"t2a": "lalo8",
+"t2b": "lblo8",
+"t2c": "lclo8",
+"x2": "rxlo8"
+},
+"sfltt8|8": {
+"t1": "ecltt8",
+"t2a": "laltt8",
+"t2b": "lbltt8",
+"t2c": "lcltt8",
+"x2": "rxltt8"
+},
+"isflq8|8": {
+"t1": "ieclq8",
+"t2a": "ilalq8",
+"t2b": "ilblq8",
+"t2c": "ilclq8",
+"x2": "irxlq8"
+},
+"isfli8|8": {
+"t1": "iecli8",
+"t2a": "ilali8",
+"t2b": "ilbli8",
+"t2c": "ilcli8",
+"x2": "irxli8"
+},
+"isflb8|8": {
+"t1": "ieclb8",
+"t2a": "ilalb8",
+"t2b": "ilblb8",
+"t2c": "ilclb8",
+"x2": "irxlb8"
+},
+"isflo8|8": {
+"t1": "ieclo8",
+"t2a": "ilalo8",
+"t2b": "ilblo8",
+"t2c": "ilclo8",
+"x2": "irxlo8"
+},
+"isfltt8|8": {
+"t1": "iecltt8",
+"t2a": "ilaltt8",
+"t2b": "ilbltt8",
+"t2c": "ilcltt8",
+"x2": "irxltt8"
+},
+"sfsq8|8": {
+"t1": "ecsq8",
+"t2a": "lasq8",
+"t2b": "lbsq8",
+"t2c": "lcsq8",
+"x2": "rxsq8"
+},
+"sfqi8|8": {
+"t1": "ecqi8",
+"t2a": "laqi8",
+"t2b": "lbqi8",
+"t2c": "lcqi8",
+"x2": "rxqi8"
+},
+"sform5|5": {
+"t1": "eorm5",
+"t2a": "laorm5",
+"t2b": "lborm5",
+"t2c": "lcorm5",
+"ts1": "torm5",
+"x2": "rxorm5"
+},
+"sform6|6": {
+"t1": "eorm6",
+"t2a": "laorm6",
+"t2b": "lborm6",
+"t2c": "lcorm6",
+"ts1": "torm6",
+"x2": "rxorm6"
+},
+"sform7|7": {
+"t1": "eorm7",
+"t2a": "laorm7",
+"t2b": "lborm7",
+"t2c": "lcorm7",
+"ts1": "torm7",
+"x2": "rxorm7"
+},
+"sform8|8": {
+"t1": "eorm8",
+"t2a": "laorm8",
+"t2b": "lborm8",
+"t2c": "lcorm8",
+"ts1": "torm8",
+"x2": "rxorm8"
+},
+"sform9|9": {
+"t1": "eorm9",
+"t2a": "laorm9",
+"t2b": "lborm9",
+"t2c": "lcorm9",
+"ts1": "torm9",
+"x2": "rxorm9"
+},
+"sfosl5|5": {
+"t1": "eosl5",
+"t2a": "laosl5",
+"t2b": "lbosl5",
+"t2c": "lcosl5",
+"ts1": "tosl5",
+"x2": "rxosl5"
+},
+"sfosl6|6": {
+"t1": "eosl6",
+"t2a": "laosl6",
+"t2b": "lbosl6",
+"t2c": "lcosl6",
+"ts1": "tosl6",
+"x2": "rxosl6"
+},
+"sfosl7|7": {
+"t1": "eosl7",
+"t2a": "laosl7",
+"t2b": "lbosl7",
+"t2c": "lcosl7",
+"ts1": "tosl7",
+"x2": "rxosl7"
+},
+"sfosl8|8": {
+"t1": "eosl8",
+"t2a": "laosl8",
+"t2b": "lbosl8",
+"t2c": "lcosl8",
+"ts1": "tosl8",
+"x2": "rxosl8"
+},
+"sfosl9|9": {
+"t1": "eosl9",
+"t2a": "laosl9",
+"t2b": "lbosl9",
+"t2c": "lcosl9",
+"ts1": "tosl9",
+"x2": "rxosl9"
+},
+"sfbmr8|8": {
+"t1": "ebmr8",
+"t2a": "labmr8",
+"t2b": "lbbmr8",
+"t2c": "lcbmr8",
+"ts1": "tbmr8",
+"x2": "rxbmr8"
+},
+"sfbmr9|9": {
+"t1": "ebmr9",
+"t2a": "labmr9",
+"t2b": "lbbmr9",
+"t2c": "lcbmr9",
+"ts1": "tbmr9",
+"x2": "rxbmr9"
+},
+"sfbmr17|17": {
+"t1": "ebmr17",
+"t2a": "labmr17",
+"t2b": "lbbmr17",
+"t2c": "lcbmr17",
+"ts1": "tbmr17",
+"x2": "rxbmr17"
+},
+"sfbmo8|8": {
+"t1": "ebmo8",
+"t2a": "labmo8",
+"t2b": "lbbmo8",
+"t2c": "lcbmo8",
+"ts1": "tbmo8",
+"x2": "rxbmo8"
+},
+"sfbmo9|9": {
+"t1": "ebmo9",
+"t2a": "labmo9",
+"t2b": "lbbmo9",
+"t2c": "lcbmo9",
+"ts1": "tbmo9",
+"x2": "rxbmo9"
+},
+"sfbmo17|17": {
+"t1": "ebmo17",
+"t2a": "labmo17",
+"t2b": "lbbmo17",
+"t2c": "lcbmo17",
+"ts1": "tbmo17",
+"x2": "rxbmo17"
+},
+"sfbsr8|8": {
+"t1": "ebsr8",
+"t2a": "labsr8",
+"t2b": "lbbsr8",
+"t2c": "lcbsr8",
+"ts1": "tbsr8",
+"x2": "rxbsr8"
+},
+"sfbsr9|9": {
+"t1": "ebsr9",
+"t2a": "labsr9",
+"t2b": "lbbsr9",
+"t2c": "lcbsr9",
+"ts1": "tbsr9",
+"x2": "rxbsr9"
+},
+"sfbsr17|17": {
+"t1": "ebsr17",
+"t2a": "labsr17",
+"t2b": "lbbsr17",
+"t2c": "lcbsr17",
+"ts1": "tbsr17",
+"x2": "rxbsr17"
+},
+"sfbso8|8": {
+"t1": "ebso8",
+"t2a": "labso8",
+"t2b": "lbbso8",
+"t2c": "lcbso8",
+"ts1": "tbso8",
+"x2": "rxbso8"
+},
+"sfbso9|9": {
+"t1": "ebso9",
+"t2a": "labso9",
+"t2b": "lbbso9",
+"t2c": "lcbso9",
+"ts1": "tbso9",
+"x2": "rxbso9"
+},
+"sfbso17|17": {
+"t1": "ebso17",
+"t2a": "labso17",
+"t2b": "lbbso17",
+"t2c": "lcbso17",
+"ts1": "tbso17",
+"x2": "rxbso17"
+},
+"sffb2074|2488": {
+"t2a": "lafb2488",
+"t2b": "lbfb2488",
+"t2c": "lcfb2488",
+"x2": "rxfb2488"
+},
+"sffs2074|2488": {
+"t2a": "lafs2488",
+"t2b": "lbfs2488",
+"t2c": "lcfs2488",
+"x2": "rxfs2488"
+},
+"sfbi1000|1000": {
+"t1": "ecbi1000",
+"t2a": "labi1000",
+"t2b": "lbbi1000",
+"t2c": "lcbi1000",
+"ts1": "tcbi1000",
+"x2": "rxbi1000"
+},
+"sfbl1000|1000": {
+"t1": "ecbl1000",
+"t2a": "labl1000",
+"t2b": "lbbl1000",
+"t2c": "lcbl1000",
+"ts1": "tcbl1000",
+"x2": "rxbl1000"
+},
+"sfbm1000|1000": {
+"t1": "ecbm1000",
+"t2a": "labm1000",
+"t2b": "lbbm1000",
+"t2c": "lcbm1000",
+"ts1": "tcbm1000",
+"x2": "rxbm1000"
+},
+"sfbx1000|1000": {
+"t1": "ecbx1000",
+"t2a": "labx1000",
+"t2b": "lbbx1000",
+"t2c": "lcbx1000",
+"ts1": "tcbx1000",
+"x2": "rxbx1000"
+},
+"sfcc1000|1000": {
+"t1": "eccc1000",
+"t2a": "lacc1000",
+"t2b": "lbcc1000",
+"t2c": "lccc1000",
+"x2": "rxcc1000"
+},
+"sfci1000|1000": {
+"t1": "ecci1000",
+"t2a": "laci1000",
+"t2b": "lbci1000",
+"t2c": "lcci1000",
+"ts1": "tcci1000",
+"x2": "rxci1000"
+},
+"sfdh1000|1000": {
+"t1": "ecdh1000",
+"t2a": "ladh1000",
+"t2b": "lbdh1000",
+"t2c": "lcdh1000",
+"ts1": "tcdh1000",
+"x2": "rxdh1000"
+},
+"sffb1000|1000": {
+"t1": "ecfb1000",
+"t2a": "lafb1000",
+"t2b": "lbfb1000",
+"t2c": "lcfb1000",
+"ts1": "tcfb1000",
+"x2": "rxfb1000"
+},
+"sfff1000|1000": {
+"t1": "ecff1000",
+"t2a": "laff1000",
+"t2b": "lbff1000",
+"t2c": "lcff1000",
+"ts1": "tcff1000",
+"x2": "rxff1000"
+},
+"sffi1000|1000": {
+"t1": "ecfi1000",
+"t2a": "lafi1000",
+"t2b": "lbfi1000",
+"t2c": "lcfi1000",
+"ts1": "tcfi1000",
+"x2": "rxfi1000"
+},
+"sffs1000|1000": {
+"t1": "ecfs1000",
+"t2a": "lafs1000",
+"t2b": "lbfs1000",
+"t2c": "lcfs1000",
+"ts1": "tcfs1000",
+"x2": "rxfs1000"
+},
+"sfit1000|1000": {
+"t1": "ecit1000",
+"t2a": "lait1000",
+"t2b": "lbit1000",
+"t2c": "lcit1000",
+"ts1": "tcit1000",
+"x2": "rxit1000"
+},
+"sfoc1000|1000": {
+"t1": "ecoc1000",
+"t2a": "laoc1000",
+"t2b": "lboc1000",
+"t2c": "lcoc1000",
+"x2": "rxoc1000"
+},
+"sfrb1000|1000": {
+"t1": "ecrb1000",
+"t2a": "larb1000",
+"t2b": "lbrb1000",
+"t2c": "lcrb1000",
+"ts1": "tcrb1000",
+"x2": "rxrb1000"
+},
+"sfrm1000|1000": {
+"t1": "ecrm1000",
+"t2a": "larm1000",
+"t2b": "lbrm1000",
+"t2c": "lcrm1000",
+"ts1": "tcrm1000",
+"x2": "rxrm1000"
+},
+"sfsc1000|1000": {
+"t1": "ecsc1000",
+"t2a": "lasc1000",
+"t2b": "lbsc1000",
+"t2c": "lcsc1000",
+"x2": "rxsc1000"
+},
+"sfsi1000|1000": {
+"t1": "ecsi1000",
+"t2a": "lasi1000",
+"t2b": "lbsi1000",
+"t2c": "lcsi1000",
+"ts1": "tcsi1000",
+"x2": "rxsi1000"
+},
+"sfsl1000|1000": {
+"t1": "ecsl1000",
+"t2a": "lasl1000",
+"t2b": "lbsl1000",
+"t2c": "lcsl1000",
+"ts1": "tcsl1000",
+"x2": "rxsl1000"
+},
+"sfso1000|1000": {
+"t1": "ecso1000",
+"t2a": "laso1000",
+"t2b": "lbso1000",
+"t2c": "lcso1000",
+"ts1": "tcso1000",
+"x2": "rxso1000"
+},
+"sfss1000|1000": {
+"t1": "ecss1000",
+"t2a": "lass1000",
+"t2b": "lbss1000",
+"t2c": "lcss1000",
+"ts1": "tcss1000",
+"x2": "rxss1000"
+},
+"sfst1000|1000": {
+"t1": "ecst1000",
+"t2a": "last1000",
+"t2b": "lbst1000",
+"t2c": "lcst1000",
+"ts1": "tcst1000",
+"x2": "rxst1000"
+},
+"sfsx1000|1000": {
+"t1": "ecsx1000",
+"t2a": "lasx1000",
+"t2b": "lbsx1000",
+"t2c": "lcsx1000",
+"ts1": "tcsx1000",
+"x2": "rxsx1000"
+},
+"sftc1000|1000": {
+"t1": "ectc1000",
+"t2a": "latc1000",
+"t2b": "lbtc1000",
+"t2c": "lctc1000",
+"x2": "rxtc1000"
+},
+"sfti1000|1000": {
+"t1": "ecti1000",
+"t2a": "lati1000",
+"t2b": "lbti1000",
+"t2c": "lcti1000",
+"ts1": "tcti1000",
+"x2": "rxti1000"
+},
+"sftt1000|1000": {
+"t1": "ectt1000",
+"t2a": "latt1000",
+"t2b": "lbtt1000",
+"t2c": "lctt1000",
+"ts1": "tctt1000",
+"x2": "rxtt1000"
+},
+"sfui1000|1000": {
+"t1": "ecui1000",
+"t2a": "laui1000",
+"t2b": "lbui1000",
+"t2c": "lcui1000",
+"ts1": "tcui1000",
+"x2": "rxui1000"
+},
+"sfvi1000|1000": {
+"t1": "ecvi1000",
+"t2a": "lavi1000",
+"t2b": "lbvi1000",
+"t2c": "lcvi1000",
+"ts1": "tcvi1000",
+"x2": "rxvi1000"
+},
+"sfvt1000|1000": {
+"t1": "ecvt1000",
+"t2a": "lavt1000",
+"t2b": "lbvt1000",
+"t2c": "lcvt1000",
+"ts1": "tcvt1000",
+"x2": "rxvt1000"
+},
+"sfxc1000|1000": {
+"t1": "ecxc1000",
+"t2a": "laxc1000",
+"t2b": "lbxc1000",
+"t2c": "lcxc1000",
+"x2": "rxxc1000"
+},
+"sfbbx10|10": {
+"t1": "ebbx10",
+"t2a": "labbx10",
+"t2b": "lbbbx10",
+"t2c": "lcbbx10",
+"ts1": "tbbx10",
+"x2": "rxbbx10"
+},
+"sfbmo10|10": {
+"t1": "ebmo10",
+"t2a": "labmo10",
+"t2b": "lbbmo10",
+"t2c": "lcbmo10",
+"ts1": "tbmo10",
+"x2": "rxbmo10"
+},
+"sfbmr10|10": {
+"t1": "ebmr10",
+"t2a": "labmr10",
+"t2b": "lbbmr10",
+"t2c": "lcbmr10",
+"ts1": "tbmr10",
+"x2": "rxbmr10"
+},
+"sfbso10|10": {
+"t1": "ebso10",
+"t2a": "labso10",
+"t2b": "lbbso10",
+"t2c": "lcbso10",
+"ts1": "tbso10",
+"x2": "rxbso10"
+},
+"sfbsr10|10": {
+"t1": "ebsr10",
+"t2a": "labsr10",
+"t2b": "lbbsr10",
+"t2c": "lcbsr10",
+"ts1": "tbsr10",
+"x2": "rxbsr10"
+},
+"sfbtl10|10": {
+"t1": "ebtl10",
+"t2a": "labtl10",
+"t2b": "lbbtl10",
+"t2c": "lcbtl10",
+"ts1": "tbtl10",
+"x2": "rxbtl10"
+},
+"sfbto10|10": {
+"t1": "ebto10",
+"t2a": "labto10",
+"t2b": "lbbto10",
+"t2c": "lcbto10",
+"ts1": "tbto10",
+"x2": "rxbto10"
+},
+"sfocc10|10": {
+"t1": "eocc10",
+"t2a": "laocc10",
+"t2b": "lbocc10",
+"t2c": "lcocc10",
+"x2": "rxocc10"
+},
+"sform10|10": {
+"t1": "eorm10",
+"t2a": "laorm10",
+"t2b": "lborm10",
+"t2c": "lcorm10",
+"ts1": "torm10",
+"x2": "rxorm10"
+},
+"sfosl10|10": {
+"t1": "eosl10",
+"t2a": "laosl10",
+"t2b": "lbosl10",
+"t2c": "lcosl10",
+"ts1": "tosl10",
+"x2": "rxosl10"
+},
+"sfoti10|10": {
+"t1": "eoti10",
+"t2a": "laoti10",
+"t2b": "lboti10",
+"t2c": "lcoti10",
+"ts1": "toti10",
+"x2": "rxoti10"
+},
+"sfssdc10|10": {
+"t1": "ecssdc10",
+"t2a": "lassdc10",
+"t2b": "lbssdc10",
+"t2c": "lcssdc10",
+"ts1": "tcssdc10",
+"x2": "rxssdc10"
+}
+}

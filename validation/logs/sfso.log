@@ -1,0 +1,2 @@
+[sfso] pages: latex 504, typst 504; times: latex 3s typst 7s extract 28s; typst warnings: 0
+  итого: строк 5580, глифов 1345051, плохих строк 0, несовпадений глифов 0, макс. шаг 0.00139 em

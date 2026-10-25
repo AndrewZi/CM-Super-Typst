@@ -1,0 +1,2 @@
+[sfit] pages: latex 231, typst 231; times: latex 1s typst 3s extract 13s; typst warnings: 0
+  итого: строк 2939, глифов 745651, плохих строк 0, несовпадений глифов 0, макс. шаг 0.00132 em

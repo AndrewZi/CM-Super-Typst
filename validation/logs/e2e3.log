@@ -1,0 +1,11 @@
+== класс 12 pt: 1092 строк
+   строк в PDF: LaTeX 1092 Typst 1092
+== класс 11 pt: 1092 строк
+   строк в PDF: LaTeX 1092 Typst 1092
+== класс 10 pt: 1092 строк
+   строк в PDF: LaTeX 1092 Typst 1092
+ok
+класс 12: {'ok': 1074, 'latex-unavailable': 18} maxstep=0.00120 em
+класс 11: {'ok': 1075, 'latex-unavailable': 17} maxstep=0.00120 em
+класс 10: {'ok': 1071, 'latex-unavailable': 21} maxstep=0.00121 em
+ALLDONE

@@ -1,0 +1,34 @@
+Шрифты CM-Super для Typst — лицензия (fonts/)
+=============================================
+
+Шрифты в папке fonts/ — производная работа от шрифтов CM-Super 0.3.4 (Type 1):
+    Copyright (C) 2001, 2002 Vladimir Volovich <vvv@vsu.ru>
+Контуры букв — Computer Modern (Donald E. Knuth), оцифрованные в CM-Super. Преобразование в OpenType (CFF), переменные шрифты, метрики,
+кернинг и лигатуры из файлов TFM LaTeX сделаны в 2026 г.; контуры букв в них не менялись (сверены по всем точкам с исходными .pfb, см. validation/REPORT.md, п. 7;
+исключение — многоточие, которое собрано из трёх точек так же, как его набирает LaTeX).
+
+Лицензия — как у CM-Super: GNU General Public License версии 2 или (на ваше усмотрение) любой более поздней версии, с исключением для шрифтов
+(GPL-2+ or GPL_Font_exception):
+
+    This package is free software; you can redistribute it and/or modify
+    it under the terms of the GNU General Public License as published by
+    the Free Software Foundation; either version 2 of the License, or
+    (at your option) any later version.
+
+    This package is distributed in the hope that it will be useful,
+    but WITHOUT ANY WARRANTY; without even the implied warranty of
+    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+    GNU General Public License for more details.
+
+    As a special exception, permission is granted to include these font
+    programs in a Postscript or PDF file that consists of a document that
+    contains text to be displayed or printed using these fonts, regardless
+    of the conditions or license applying to the document itself.
+
+Практически это значит:
+  * PDF-файлы, собранные Typst с этими шрифтами (шрифты вшиваются в PDF), можно распространять на любых условиях, в том числе коммерческих;
+  * сами файлы .otf можно копировать и распространять, сохраняя эту лицензию и текст исключения; изменённые версии шрифтов распространяются под GPL-2+;
+  * текст лицензии вшит в таблицу `name` каждого шрифта (поля Copyright, License Description, License URL).
+
+Полный текст GPL-2 — COPYING-GPL-2.txt. Исходный файл copyright пакета cm-super — copyright-cm-super.txt.
+Это не юридическая консультация: при сомнениях сверяйтесь с исходными лицензиями.

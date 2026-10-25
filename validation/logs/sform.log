@@ -1,0 +1,2 @@
+[sform] pages: latex 426, typst 426; times: latex 2s typst 4s extract 18s; typst warnings: 0
+  итого: строк 2458, глифов 1096825, плохих строк 0, несовпадений глифов 0, макс. шаг 0.00146 em

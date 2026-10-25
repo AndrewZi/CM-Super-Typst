@@ -1,0 +1,33 @@
+[typst] строк в PDF 12012, ожидалось 12012
+[typst-bnd] sfbbx   CM-Super Bright / Bold: плохих границ 0  OK
+[typst-bnd] sfbi    CM-Super / Bold Italic: плохих границ 0  OK
+[typst-bnd] sfbl    CM-Super / Bold Slanted: плохих границ 0  OK
+[typst-bnd] sfbm    CM-Super Variant / Bold: плохих границ 0  OK
+[typst-bnd] sfbmo   CM-Super Bright / Slanted: плохих границ 0  OK
+[typst-bnd] sfbmr   CM-Super Bright / Regular: плохих границ 0  OK
+[typst-bnd] sfbso   CM-Super Bright / Semibold Slanted: плохих границ 0  OK
+[typst-bnd] sfbsr   CM-Super Bright / Semibold: плохих границ 0  OK
+[typst-bnd] sfbx    CM-Super / Bold: плохих границ 0  OK
+[typst-bnd] sfci    CM-Super Classical / Italic: плохих границ 0  OK
+[typst-bnd] sfdh    CM-Super Dunhill / Regular: плохих границ 0  OK
+[typst-bnd] sffb    CM-Super Fibonacci / Regular: плохих границ 0  OK
+[typst-bnd] sfff    CM-Super Funny / Regular: плохих границ 0  OK
+[typst-bnd] sffi    CM-Super Funny / Italic: плохих границ 0  OK
+[typst-bnd] sffs    CM-Super Fibonacci / Slanted: плохих границ 0  OK
+[typst-bnd] sfit    CM-Super Typewriter / Italic: плохих границ 0  OK
+[typst-bnd] sform   CM-Super Concrete / Regular: плохих границ 0  OK
+[typst-bnd] sfosl   CM-Super Concrete / Slanted: плохих границ 0  OK
+[typst-bnd] sfrb    CM-Super / Semibold: плохих границ 0  OK
+[typst-bnd] sfrm    CM-Super / Regular: плохих границ 0  OK
+[typst-bnd] sfsi    CM-Super Sans / Slanted: плохих границ 0  OK
+[typst-bnd] sfsl    CM-Super / Slanted: плохих границ 0  OK
+[typst-bnd] sfso    CM-Super Sans / Bold Slanted: плохих границ 0  OK
+[typst-bnd] sfss    CM-Super Sans / Regular: плохих границ 0  OK
+[typst-bnd] sfst    CM-Super Typewriter / Slanted: плохих границ 0  OK
+[typst-bnd] sfsx    CM-Super Sans / Bold: плохих границ 0  OK
+[typst-bnd] sfti    CM-Super / Italic: плохих границ 0  OK
+[typst-bnd] sftt    CM-Super Typewriter / Regular: плохих границ 0  OK
+[typst-bnd] sfui    CM-Super Upright / Regular: плохих границ 0  OK
+[typst-bnd] sfvi    CM-Super Typewriter Proportional / Italic: плохих границ 0  OK
+[typst-bnd] sfvt    CM-Super Typewriter Proportional / Regular: плохих границ 0  OK
+итого: границ 308, точек 4004, плохих границ 0, границ, где рисунки неразличимы 0

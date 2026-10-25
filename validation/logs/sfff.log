@@ -1,0 +1,2 @@
+[sfff] pages: latex 360, typst 360; times: latex 3s typst 3s extract 16s; typst warnings: 0
+  итого: строк 4065, глифов 970011, плохих строк 0, несовпадений глифов 0, макс. шаг 0.00132 em
